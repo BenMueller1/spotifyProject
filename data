@@ -17942,5 +17942,349 @@
         "prevTabId": 690,
         "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
         "time": "7/7/2022, 2:18:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 2:18:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 2:18:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd/reactapp",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd",
+        "time": "7/7/2022, 2:18:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd/reactapp",
+        "time": "7/7/2022, 2:18:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/frontEnd",
+        "time": "7/7/2022, 2:18:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 2:18:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/mainApp",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 2:19:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/mainApp",
+        "time": "7/7/2022, 2:19:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 2:19:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJv9I00djedIqURhCej4G64%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "time": "7/7/2022, 2:20:12 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 694,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 694,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:27:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 694,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:27:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/results?search_query=add+react+to+django",
+        "prevTabId": 694,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/7/2022, 2:27:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s",
+        "prevTabId": 694,
+        "prevUrl": "https://www.youtube.com/results?search_query=add+react+to+django",
+        "time": "7/7/2022, 2:27:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s&ab_channel=CodeKeen",
+        "prevTabId": 694,
+        "prevUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s",
+        "time": "7/7/2022, 2:27:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s&ab_channel=CodeKeen",
+        "prevTabId": 694,
+        "prevUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s&ab_channel=CodeKeen",
+        "time": "7/7/2022, 2:27:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 694,
+        "curUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s&ab_channel=CodeKeen",
+        "prevTabId": 694,
+        "prevUrl": "https://www.youtube.com/watch?v=w8SQ8beafiQ&t=94s&ab_channel=CodeKeen",
+        "time": "7/7/2022, 2:27:48 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 696,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 696,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:32:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 696,
+        "curUrl": "https://www.google.com/search?q=bpm+run+build&oq=bpm+run+build&aqs=chrome..69i57j0i67i131i433j0i131i433i512j0i67l3j0i131i433i512j0i67j0i67i131i433j0i131i433i512.1376j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 696,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:33:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 696,
+        "curUrl": "https://www.google.com/search?q=npm+run+build&sxsrf=ALiCzsY4D2jGIX9JC8ZJE0Cfb81mZdlwAw%3A1657222378611&ei=6jTHYvH1JNWfkPIP8MeDuA4&ved=0ahUKEwjxksO5wuf4AhXVD0QIHfDjAOcQ4dUDCA4&uact=5&oq=npm+run+build&gs_lcp=Cgdnd3Mtd2l6EAMyCggAELEDEIMBEEMyBQgAEJECMgUIABCRAjIFCAAQkQIyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEMyBAgAEEM6BwgAEEcQsAM6BAgAEApKBAhBGABKBAhGGABQnwdYhwpgtwtoAXABeACAAXOIAeIBkgEDMC4ymAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "prevTabId": 696,
+        "prevUrl": "https://www.google.com/search?q=bpm+run+build&oq=bpm+run+build&aqs=chrome..69i57j0i67i131i433j0i131i433i512j0i67l3j0i131i433i512j0i67j0i67i131i433j0i131i433i512.1376j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:33:03 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 698,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 698,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:34:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 698,
+        "curUrl": "https://www.google.com/search?q=django+staticfiles_dirs&oq=django+staticfiles_dirs&aqs=chrome..69i57j0i20i263i512j0i10l4j0i22i30l4.2345j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 698,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:34:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network/blob/master/project4/network/urls.py",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/network/tree/master/project4/network",
+        "time": "7/7/2022, 2:35:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network/tree/master/project4/network",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/network/blob/master/project4/network/urls.py",
+        "time": "7/7/2022, 2:35:59 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 700,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 700,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:36:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 700,
+        "curUrl": "http://localhost:8000/",
+        "prevTabId": 700,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:36:11 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 702,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 702,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:38:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 702,
+        "curUrl": "http://localhost:8000/",
+        "prevTabId": 702,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:38:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 702,
+        "curUrl": "http://localhost:8000/",
+        "prevTabId": 702,
+        "prevUrl": "http://localhost:8000/",
+        "time": "7/7/2022, 2:39:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJv9I00djedIqURhCej4G64%3D",
+        "time": "7/7/2022, 2:40:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJv9I00djedIqURhCej4G64%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "time": "7/7/2022, 2:40:14 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 703,
+        "curUrl": "https://reactjs.org/",
+        "prevTabId": 702,
+        "prevUrl": "http://localhost:8000/",
+        "time": "7/7/2022, 2:49:51 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 705,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 705,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:52:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 705,
+        "curUrl": "https://www.google.com/search?q=do+we+have+to+do+npm+run+build+every+time&oq=do+we+have+to+do+npm+run+build+every+time&aqs=chrome..69i57j33i160j33i299l2.4127j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 705,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:52:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 705,
+        "curUrl": "https://stackoverflow.com/questions/60424844/do-i-need-to-run-npm-run-build-every-time-i-made-changes#:~:text=Nope%2C%20Anything%20you%20change%20over,will%20rerun%20for%20that%20change.",
+        "prevTabId": 705,
+        "prevUrl": "https://www.google.com/search?q=do+we+have+to+do+npm+run+build+every+time&oq=do+we+have+to+do+npm+run+build+every+time&aqs=chrome..69i57j33i160j33i299l2.4127j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:53:04 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 707,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 707,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:56:22 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 707,
+        "curUrl": "https://www.google.com/search?q=npm+run+start+vs+npm+run+build&oq=npm+run+start+vs+&aqs=chrome.1.0i20i263i512l2j0i512j69i57j0i512l3j0i22i30l2j0i390.3399j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 707,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:56:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 707,
+        "curUrl": "https://stackoverflow.com/questions/51358235/difference-between-npm-start-and-npm-run-start",
+        "prevTabId": 707,
+        "prevUrl": "https://www.google.com/search?q=npm+run+start+vs+npm+run+build&oq=npm+run+start+vs+&aqs=chrome.1.0i20i263i512l2j0i512j69i57j0i512l3j0i22i30l2j0i390.3399j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:56:30 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 709,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 709,
+        "prevUrl": "",
+        "time": "7/7/2022, 3:03:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 709,
+        "curUrl": "https://www.google.com/search?q=what+is+public+folder+in+react+app&oq=what+is+public+folder+in+react+app&aqs=chrome..69i57j0i22i30j0i390l5.4199j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 709,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 3:03:22 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 709,
+        "curUrl": "https://www.google.com/search?q=difference+between+public+and+build+folder+in+react&oq=difference+between+public+and+build+folder+in+react&aqs=chrome..69i57j33i160l2.6248j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 709,
+        "prevUrl": "https://www.google.com/search?q=what+is+public+folder+in+react+app&oq=what+is+public+folder+in+react+app&aqs=chrome..69i57j0i22i30j0i390l5.4199j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 3:03:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 709,
+        "curUrl": "https://stackoverflow.com/questions/52266892/meaning-of-src-public-and-build-folders",
+        "prevTabId": 709,
+        "prevUrl": "https://www.google.com/search?q=difference+between+public+and+build+folder+in+react&oq=difference+between+public+and+build+folder+in+react&aqs=chrome..69i57j33i160l2.6248j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 3:03:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJv9I00djedIqURhCej4G64%3D",
+        "time": "7/7/2022, 3:05:53 PM"
     }
 ]
