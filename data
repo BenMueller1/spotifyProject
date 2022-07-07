@@ -17142,5 +17142,805 @@
         "prevTabId": 662,
         "prevUrl": "https://docs.google.com/document/d/1BSRMUmhezExFtx-QXT4WMB32_6rD1c0SNn_znytzslI/edit",
         "time": "7/7/2022, 1:37:54 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 671,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 671,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:41:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 671,
+        "curUrl": "https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html",
+        "prevTabId": 671,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:41:47 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 672,
+        "curUrl": "https://python-guide-pt-br.readthedocs.io/en/latest/",
+        "prevTabId": 671,
+        "prevUrl": "https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html",
+        "time": "7/7/2022, 1:43:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/7/2022, 1:44:13 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 675,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 675,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:44:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 675,
+        "curUrl": "https://www.google.com/search?q=create+django+project&oq=create+django+&aqs=chrome.2.69i57j69i59j0i512l8.2943j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 675,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:45:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 675,
+        "curUrl": "https://docs.djangoproject.com/en/4.0/intro/tutorial01/",
+        "prevTabId": 675,
+        "prevUrl": "https://www.google.com/search?q=create+django+project&oq=create+django+&aqs=chrome.2.69i57j69i59j0i512l8.2943j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:45:05 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 676,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 676,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:45:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://www.google.com/search?q=what+is+the+point+of+having+multiple+apps+django&oq=what+is+the+point+of+having+multiple+apps+django&aqs=chrome..69i57j33i160.4728j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 676,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:45:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827",
+        "prevTabId": 676,
+        "prevUrl": "https://www.google.com/search?q=what+is+the+point+of+having+multiple+apps+django&oq=what+is+the+point+of+having+multiple+apps+django&aqs=chrome..69i57j33i160.4728j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:45:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/2",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827",
+        "time": "7/7/2022, 1:46:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/3",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/2",
+        "time": "7/7/2022, 1:46:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/3",
+        "time": "7/7/2022, 1:46:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/48",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827",
+        "time": "7/7/2022, 1:46:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/46",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/48",
+        "time": "7/7/2022, 1:46:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/1",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/46",
+        "time": "7/7/2022, 1:47:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 676,
+        "curUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827",
+        "prevTabId": 676,
+        "prevUrl": "https://forum.djangoproject.com/t/why-do-we-need-apps/827/1",
+        "time": "7/7/2022, 1:47:02 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 678,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 678,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:48:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 678,
+        "curUrl": "https://www.google.com/search?q=ImportError%3A+Couldn%27t+import+Django.+Are+you+sure+it%27s+installed+and+available+on+your+PYTHONPATH+environment+variable%3F+Did+you+forget+to+activate+a+virtual+environment&oq=ImportError%3A+Couldn%27t+import+Django.+Are+you+sure+it%27s+installed+and+available+on+your+PYTHONPATH+environment+variable%3F+Did+you+forget+to+activate+a+virtual+environment&aqs=chrome..69i57j69i58.105j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 678,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:48:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 678,
+        "curUrl": "https://stackoverflow.com/questions/46210934/importerror-couldnt-import-django",
+        "prevTabId": 678,
+        "prevUrl": "https://www.google.com/search?q=ImportError%3A+Couldn%27t+import+Django.+Are+you+sure+it%27s+installed+and+available+on+your+PYTHONPATH+environment+variable%3F+Did+you+forget+to+activate+a+virtual+environment&oq=ImportError%3A+Couldn%27t+import+Django.+Are+you+sure+it%27s+installed+and+available+on+your+PYTHONPATH+environment+variable%3F+Did+you+forget+to+activate+a+virtual+environment&aqs=chrome..69i57j69i58.105j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:48:47 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 680,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 680,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:50:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://www.google.com/search?q=django+redirect+url+to+app&oq=django+redirect+url+to+app&aqs=chrome..69i57j0i22i30l3j0i390l3.5472j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 680,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:50:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://stackoverflow.com/questions/58357047/how-to-properly-redirect-from-one-app-to-another-app-in-django",
+        "prevTabId": 680,
+        "prevUrl": "https://www.google.com/search?q=django+redirect+url+to+app&oq=django+redirect+url+to+app&aqs=chrome..69i57j0i22i30l3j0i390l3.5472j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:50:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://www.google.com/search?q=django+include&oq=django+include&aqs=chrome..69i57j35i39l2j0i131i433i512j0i20i263i512j69i60j69i61l2.1238j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 680,
+        "prevUrl": "https://stackoverflow.com/questions/58357047/how-to-properly-redirect-from-one-app-to-another-app-in-django",
+        "time": "7/7/2022, 1:50:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://www.google.com/search?q=django+include&oq=django+include&aqs=chrome..69i57j35i39l2j0i131i433i512j0i20i263i512j69i60j69i61l2.1238j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 680,
+        "prevUrl": "https://www.google.com/search?q=django+include&oq=django+include&aqs=chrome..69i57j35i39l2j0i131i433i512j0i20i263i512j69i60j69i61l2.1238j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:50:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://www.google.com/search?q=django+include%28%29+import&sxsrf=ALiCzsZnQsZsjwtZ2PGy6eUf6iIdN3PTnw%3A1657219845090&ei=BSvHYqCWBfqHptQPkoytgAU&ved=0ahUKEwjgrLmBuef4AhX6g4kEHRJGC1AQ4dUDCA4&uact=5&oq=django+include%28%29+import&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjIGCAAQHhAWMgUIABCGAzIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DwguENQCEMgDELADEEMYAjoFCAAQkQI6BQgAEIAESgQIQRgASgQIRhgBUIgHWMgNYIEOaAFwAHgAgAF5iAHzBpIBAzIuNpgBAKABAcgBEcABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz",
+        "prevTabId": 680,
+        "prevUrl": "https://www.google.com/search?q=django+include&oq=django+include&aqs=chrome..69i57j35i39l2j0i131i433i512j0i20i263i512j69i60j69i61l2.1238j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:50:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://docs.djangoproject.com/en/4.0/ref/urls/",
+        "prevTabId": 680,
+        "prevUrl": "https://www.google.com/search?q=django+include%28%29+import&sxsrf=ALiCzsZnQsZsjwtZ2PGy6eUf6iIdN3PTnw%3A1657219845090&ei=BSvHYqCWBfqHptQPkoytgAU&ved=0ahUKEwjgrLmBuef4AhX6g4kEHRJGC1AQ4dUDCA4&uact=5&oq=django+include%28%29+import&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjIGCAAQHhAWMgUIABCGAzIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DwguENQCEMgDELADEEMYAjoFCAAQkQI6BQgAEIAESgQIQRgASgQIRhgBUIgHWMgNYIEOaAFwAHgAgAF5iAHzBpIBAzIuNpgBAKABAcgBEcABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz",
+        "time": "7/7/2022, 1:50:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://www.google.com/search?q=happy+herbivore+inc&oq=happy+herbivore+inc&aqs=chrome..69i57j0i512l2j46i512j0i512l6.1999j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 680,
+        "prevUrl": "https://docs.djangoproject.com/en/4.0/ref/urls/",
+        "time": "7/7/2022, 1:51:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 680,
+        "curUrl": "https://happyherbivore.com/",
+        "prevTabId": 680,
+        "prevUrl": "https://www.google.com/search?q=happy+herbivore+inc&oq=happy+herbivore+inc&aqs=chrome..69i57j0i512l2j46i512j0i512l6.1999j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:51:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEls5gBEc99Kiqg3QST21wc%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "time": "7/7/2022, 1:52:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEls5gBEc99Kiqg3QST21wc%3D",
+        "time": "7/7/2022, 1:52:17 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 684,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 684,
+        "prevUrl": "",
+        "time": "7/7/2022, 1:58:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://www.google.com/search?q=github&oq=github&aqs=chrome..69i57j46i39i199i291j69i60l3j69i65l3.783j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 684,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 1:58:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/",
+        "prevTabId": 684,
+        "prevUrl": "https://www.google.com/search?q=github&oq=github&aqs=chrome..69i57j46i39i199i291j69i60l3j69i65l3.783j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 1:58:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1?tab=repositories",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/",
+        "time": "7/7/2022, 1:58:22 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/cs50-Web-Dev-Work",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1?tab=repositories",
+        "time": "7/7/2022, 1:58:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/cs50-Web-Dev-Work",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/cs50-Web-Dev-Work",
+        "time": "7/7/2022, 1:58:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1?tab=repositories",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/cs50-Web-Dev-Work",
+        "time": "7/7/2022, 1:58:30 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1?tab=repositories",
+        "time": "7/7/2022, 1:58:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/network",
+        "time": "7/7/2022, 1:58:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network/tree/master/project4",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/network",
+        "time": "7/7/2022, 1:58:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 684,
+        "curUrl": "https://github.com/BenMueller1/network/tree/master/project4/network",
+        "prevTabId": 684,
+        "prevUrl": "https://github.com/BenMueller1/network/tree/master/project4",
+        "time": "7/7/2022, 1:58:39 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 686,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 686,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:00:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+store+react+component&oq=where+to+store+react+component&aqs=chrome..69i57j33i160j33i299l3.3936j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:00:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+store+react+components&sxsrf=ALiCzsaWL-8W_WRbFmyg0gUo3CREq0HSOA%3A1657220405515&ei=NS3HYsz7Hp-hqtsP-pGEqAk&ved=0ahUKEwiM6taMu-f4AhWfkGoFHfoIAZUQ4dUDCA4&uact=5&oq=where+to+store+react+components&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsANKBAhBGABKBAhGGABQdVh1YO0DaAFwAXgAgAF4iAF4kgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+store+react+component&oq=where+to+store+react+component&aqs=chrome..69i57j33i160j33i299l3.3936j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:00:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.freecodecamp.org/news/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00/",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+store+react+components&sxsrf=ALiCzsaWL-8W_WRbFmyg0gUo3CREq0HSOA%3A1657220405515&ei=NS3HYsz7Hp-hqtsP-pGEqAk&ved=0ahUKEwiM6taMu-f4AhWfkGoFHfoIAZUQ4dUDCA4&uact=5&oq=where+to+store+react+components&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsANKBAhBGABKBAhGGABQdVh1YO0DaAFwAXgAgAF4iAF4kgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "time": "7/7/2022, 2:00:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+store+react+components&sxsrf=ALiCzsaWL-8W_WRbFmyg0gUo3CREq0HSOA%3A1657220405515&ei=NS3HYsz7Hp-hqtsP-pGEqAk&ved=0ahUKEwiM6taMu-f4AhWfkGoFHfoIAZUQ4dUDCA4&uact=5&oq=where+to+store+react+components&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsANKBAhBGABKBAhGGABQdVh1YO0DaAFwAXgAgAF4iAF4kgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "prevTabId": 686,
+        "prevUrl": "https://www.freecodecamp.org/news/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00/",
+        "time": "7/7/2022, 2:00:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://reactjs.org/docs/faq-structure.html",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+store+react+components&sxsrf=ALiCzsaWL-8W_WRbFmyg0gUo3CREq0HSOA%3A1657220405515&ei=NS3HYsz7Hp-hqtsP-pGEqAk&ved=0ahUKEwiM6taMu-f4AhWfkGoFHfoIAZUQ4dUDCA4&uact=5&oq=where+to+store+react+components&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsANKBAhBGABKBAhGGABQdVh1YO0DaAFwAXgAgAF4iAF4kgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "time": "7/7/2022, 2:00:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=install+and+import+react&oq=install+and+import+react&aqs=chrome..69i57j33i160l2j33i15i22i29i30j33i22i29i30l2.2599j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://reactjs.org/docs/faq-structure.html",
+        "time": "7/7/2022, 2:01:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://reactjs.org/docs/add-react-to-a-website.html",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=install+and+import+react&oq=install+and+import+react&aqs=chrome..69i57j33i160l2j33i15i22i29i30j33i22i29i30l2.2599j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:01:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=install+and+import+react&oq=install+and+import+react&aqs=chrome..69i57j33i160l2j33i15i22i29i30j33i22i29i30l2.2599j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://reactjs.org/docs/add-react-to-a-website.html",
+        "time": "7/7/2022, 2:01:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.npmjs.com/package/react-import",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=install+and+import+react&oq=install+and+import+react&aqs=chrome..69i57j33i160l2j33i15i22i29i30j33i22i29i30l2.2599j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:01:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=install+react&oq=install+react&aqs=chrome..69i57j0i67j0i20i263i512j0i67i131i433j0i67l6.1167j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://www.npmjs.com/package/react-import",
+        "time": "7/7/2022, 2:01:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=add+react+to+django+project&oq=add+react+to+django&aqs=chrome.0.0i20i263i512j69i57j0i512j0i22i30l2j0i390l2.2711j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=install+react&oq=install+react&aqs=chrome..69i57j0i67j0i20i263i512j0i67i131i433j0i67l6.1167j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:02:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://medium.com/codex/how-to-integrate-react-and-django-framework-in-a-simple-way-c8b90f3ce945",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=add+react+to+django+project&oq=add+react+to+django&aqs=chrome.0.0i20i263i512j69i57j0i512j0i22i30l2j0i390l2.2711j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:02:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://medium.com/codex/how-to-integrate-react-and-django-framework-in-a-simple-way-c8b90f3ce945",
+        "time": "7/7/2022, 2:03:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/integrating-django-react/",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:03:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/integrating-django-react/",
+        "time": "7/7/2022, 2:04:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://stackoverflow.com/questions/41867055/how-to-get-django-and-reactjs-to-work-together",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:04:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://web.archive.org/web/20171207032005/http://geezhawk.github.io/using-react-with-django-rest-framework",
+        "prevTabId": 686,
+        "prevUrl": "https://stackoverflow.com/questions/41867055/how-to-get-django-and-reactjs-to-work-together",
+        "time": "7/7/2022, 2:04:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://stackoverflow.com/questions/41867055/how-to-get-django-and-reactjs-to-work-together",
+        "prevTabId": 686,
+        "prevUrl": "https://web.archive.org/web/20171207032005/http://geezhawk.github.io/using-react-with-django-rest-framework",
+        "time": "7/7/2022, 2:05:55 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 686,
+        "prevUrl": "https://stackoverflow.com/questions/41867055/how-to-get-django-and-reactjs-to-work-together",
+        "time": "7/7/2022, 2:06:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:06:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:06:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:06:30 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "time": "7/7/2022, 2:06:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:07:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/src",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:07:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/src",
+        "time": "7/7/2022, 2:07:14 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:07:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:07:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend/apps",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "time": "7/7/2022, 2:07:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend/apps",
+        "time": "7/7/2022, 2:07:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "time": "7/7/2022, 2:07:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/blob/master/frontend/README.md",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/blob/master/frontend/README.md",
+        "time": "7/7/2022, 2:08:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/blob/master/frontend/README.md",
+        "time": "7/7/2022, 2:08:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:08:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/build",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:08:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/build",
+        "time": "7/7/2022, 2:08:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/src",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:08:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend/src",
+        "time": "7/7/2022, 2:08:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:08:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:08:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend/settings",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "time": "7/7/2022, 2:08:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend/settings",
+        "time": "7/7/2022, 2:08:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/backend",
+        "time": "7/7/2022, 2:08:53 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template",
+        "time": "7/7/2022, 2:08:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 687,
+        "curUrl": "https://github.com/scottwoodall/django-react-template",
+        "prevTabId": 687,
+        "prevUrl": "https://github.com/scottwoodall/django-react-template/tree/master/frontend",
+        "time": "7/7/2022, 2:08:56 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 686,
+        "prevUrl": "https://stackoverflow.com/questions/41867055/how-to-get-django-and-reactjs-to-work-together",
+        "time": "7/7/2022, 2:09:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 686,
+        "curUrl": "https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy",
+        "prevTabId": 686,
+        "prevUrl": "https://www.google.com/search?q=where+to+put+react+app+in+django+project&oq=where+to+put+react+app+in+django+project&aqs=chrome..69i57.5239j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:09:09 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 689,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 689,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:10:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 689,
+        "curUrl": "https://www.google.com/search?q=make+a+react+app&oq=make+a+react+app&aqs=chrome..69i57j0i512j0i20i263i512j0i22i30l7.1904j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 689,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:10:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 689,
+        "curUrl": "https://reactjs.org/docs/create-a-new-react-app.html",
+        "prevTabId": 689,
+        "prevUrl": "https://www.google.com/search?q=make+a+react+app&oq=make+a+react+app&aqs=chrome..69i57j0i512j0i20i263i512j0i22i30l7.1904j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 2:11:00 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 690,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 690,
+        "prevUrl": "",
+        "time": "7/7/2022, 2:17:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/",
+        "prevTabId": 690,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 2:17:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/",
+        "time": "7/7/2022, 2:17:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1",
+        "time": "7/7/2022, 2:18:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 2:18:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 2:18:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 690,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 690,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 2:18:07 PM"
     }
 ]
