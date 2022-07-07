@@ -18286,5 +18286,165 @@
         "prevTabId": 667,
         "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJv9I00djedIqURhCej4G64%3D",
         "time": "7/7/2022, 3:05:53 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 711,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 711,
+        "prevUrl": "",
+        "time": "7/7/2022, 3:08:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://www.google.com/search?q=github&oq=github&aqs=chrome..69i57j46i39i199i291j69i60l3j69i65l3.791j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 711,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 3:09:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/",
+        "prevTabId": 711,
+        "prevUrl": "https://www.google.com/search?q=github&oq=github&aqs=chrome..69i57j46i39i199i291j69i60l3j69i65l3.791j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 3:09:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/",
+        "time": "7/7/2022, 3:09:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1",
+        "time": "7/7/2022, 3:09:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 3:09:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 3:09:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/frontend",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 3:09:14 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/frontend",
+        "time": "7/7/2022, 3:09:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/mainApp",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 3:09:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/mainApp",
+        "time": "7/7/2022, 3:09:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 3:09:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/spotifyProject",
+        "time": "7/7/2022, 3:09:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/frontend",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 3:09:21 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 713,
+        "curUrl": "https://create-react-app.dev/docs/making-a-progressive-web-app/",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/frontend",
+        "time": "7/7/2022, 3:09:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject/frontend",
+        "time": "7/7/2022, 3:09:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/tree/master/spotifyProject",
+        "time": "7/7/2022, 3:09:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/new/master?readme=1",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 3:09:42 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject/new/master?readme=1",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/new/master?readme=1",
+        "time": "7/7/2022, 3:09:42 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject/new/master?readme=1",
+        "time": "7/7/2022, 3:09:45 PM"
     }
 ]
