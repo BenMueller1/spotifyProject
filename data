@@ -18446,5 +18446,29 @@
         "prevTabId": 711,
         "prevUrl": "https://github.com/BenMueller1/spotifyProject/new/master?readme=1",
         "time": "7/7/2022, 3:09:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 711,
+        "curUrl": "https://github.com/BenMueller1/spotifyProject",
+        "prevTabId": 711,
+        "prevUrl": "https://github.com/BenMueller1/spotifyProject",
+        "time": "7/7/2022, 3:10:31 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 715,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 715,
+        "prevUrl": "",
+        "time": "7/7/2022, 3:12:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 715,
+        "curUrl": "https://www.google.com/search?q=tough&oq=tough&aqs=chrome..69i57j0i67l2j0i131i433i512j0i433i512j0i131i433j0i512j69i60.559j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 715,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 3:12:25 PM"
     }
 ]

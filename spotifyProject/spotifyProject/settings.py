@@ -57,7 +57,7 @@ ROOT_URLCONF = 'spotifyProject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [
+        'DIRS': [   # specifies additional dirs to look for template files in (in addition to the default route)
             os.path.join(BASE_DIR, 'frontend/build')
         ],
         'APP_DIRS': True,
@@ -123,12 +123,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
+STATICFILES_DIRS = [ # specifies additional directories to search for static files in
+    os.path.join(BASE_DIR, r'frontend\build\static')
+]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, r'frontend\build\static')
-]
