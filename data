@@ -18470,5 +18470,2829 @@
         "prevTabId": 715,
         "prevUrl": "chrome://newtab/",
         "time": "7/7/2022, 3:12:25 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 717,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 717,
+        "prevUrl": "",
+        "time": "7/7/2022, 4:04:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://www.google.com/search?q=washu+webstac&oq=washu+webst&aqs=chrome.0.35i39j69i57j0i512j0i22i30j69i59.1471j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 717,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 4:04:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Default.aspx",
+        "prevTabId": 717,
+        "prevUrl": "https://www.google.com/search?q=washu+webstac&oq=washu+webst&aqs=chrome.0.35i39j69i57j0i512j0i22i30j69i59.1471j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 4:04:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 717,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Default.aspx",
+        "time": "7/7/2022, 4:04:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 717,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/7/2022, 4:04:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 717,
+        "prevUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/7/2022, 4:04:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 717,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": "7/7/2022, 4:04:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 717,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": "7/7/2022, 4:04:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 717,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": "7/7/2022, 4:04:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Home&Page=https://acadinfo.wustl.edu/apps/WebSTACHome/Default.aspx",
+        "prevTabId": 717,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": "7/7/2022, 4:04:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Account%20Inquiry&Page=/SA/AccountInquiry/",
+        "prevTabId": 717,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Home&Page=https://acadinfo.wustl.edu/apps/WebSTACHome/Default.aspx",
+        "time": "7/7/2022, 4:04:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 717,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Pay/View%20My%20Bills&Page=/SA/Invoice/",
+        "prevTabId": 717,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Account%20Inquiry&Page=/SA/AccountInquiry/",
+        "time": "7/7/2022, 4:05:31 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 720,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e2s1",
+        "prevTabId": 717,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Pay/View%20My%20Bills&Page=/SA/Invoice/",
+        "time": "7/7/2022, 4:05:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e2s1",
+        "prevTabId": 720,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e2s1",
+        "time": "7/7/2022, 4:05:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/login?IQW=1&eusername=A75FBB55C9877E38F879E5767A1FE565870BAD546896BBCE75389E9430441E64",
+        "prevTabId": 720,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e2s1",
+        "time": "7/7/2022, 4:05:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/login?IQW=1&eusername=A75FBB55C9877E38F879E5767A1FE565870BAD546896BBCE75389E9430441E64",
+        "prevTabId": 720,
+        "prevUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/login?IQW=1&eusername=A75FBB55C9877E38F879E5767A1FE565870BAD546896BBCE75389E9430441E64",
+        "time": "7/7/2022, 4:05:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/overview",
+        "prevTabId": 720,
+        "prevUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/login?IQW=1&eusername=A75FBB55C9877E38F879E5767A1FE565870BAD546896BBCE75389E9430441E64",
+        "time": "7/7/2022, 4:05:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/activity-details",
+        "prevTabId": 720,
+        "prevUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/overview",
+        "time": "7/7/2022, 4:05:42 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/transactions",
+        "prevTabId": 720,
+        "prevUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/activity-details",
+        "time": "7/7/2022, 4:05:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 720,
+        "curUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/statements",
+        "prevTabId": 720,
+        "prevUrl": "https://commerce.cashnet.com/cashneti/static/epayment/wustlpay/transactions",
+        "time": "7/7/2022, 4:06:02 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 722,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 722,
+        "prevUrl": "",
+        "time": "7/7/2022, 4:06:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 722,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 4:06:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/7/2022, 4:06:12 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 724,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 724,
+        "prevUrl": "",
+        "time": "7/7/2022, 4:06:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://www.google.com/search?q=washu+webstac&oq=washu+webstac&aqs=chrome.0.69i59j0i20i263i512l2j0i22i30.1192j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 724,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/7/2022, 4:06:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Home&Page=https://acadinfo.wustl.edu/apps/WebSTACHome/Default.aspx",
+        "prevTabId": 724,
+        "prevUrl": "https://www.google.com/search?q=washu+webstac&oq=washu+webstac&aqs=chrome.0.69i59j0i20i263i512l2j0i22i30.1192j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/7/2022, 4:06:30 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=User%20Profile&Page=/apps/userprofile/",
+        "prevTabId": 724,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Home&Page=https://acadinfo.wustl.edu/apps/WebSTACHome/Default.aspx",
+        "time": "7/7/2022, 4:06:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Contact%20Information&Page=/apps/ContactInfo/",
+        "prevTabId": 724,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=User%20Profile&Page=/apps/userprofile/",
+        "time": "7/7/2022, 4:06:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Holds&Page=/apps/ContactInfo/Holds.aspx",
+        "prevTabId": 724,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Contact%20Information&Page=/apps/ContactInfo/",
+        "time": "7/7/2022, 4:06:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Holds&Page=/apps/ContactInfo/Holds.aspx#",
+        "prevTabId": 724,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Holds&Page=/apps/ContactInfo/Holds.aspx",
+        "time": "7/7/2022, 4:06:56 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 724,
+        "curUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=User%20Profile&Page=/apps/userprofile/",
+        "prevTabId": 724,
+        "prevUrl": "https://acadinfo.wustl.edu/WSHome/Generic.aspx?Type=Holds&Page=/apps/ContactInfo/Holds.aspx#",
+        "time": "7/7/2022, 4:06:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "time": "7/11/2022, 3:52:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 667,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJt25dEetTpNp39psDrDIuM%3D",
+        "time": "7/11/2022, 3:52:20 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 667,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 667,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/11/2022, 3:52:22 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/11/2022, 3:52:24 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 722,
+        "prevUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/11/2022, 10:27:27 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 728,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 728,
+        "prevUrl": "",
+        "time": "7/11/2022, 10:27:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/11/2022, 10:27:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 728,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 10:27:31 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https%3a%2f%2flogin.wustl.edu%2fidp%2fprofile%2fSAML2%2fRedirect%2fSSO%3fexecution%3de1s1",
+        "prevTabId": 722,
+        "prevUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+        "time": "7/11/2022, 10:27:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 722,
+        "prevUrl": "https://connect.wustl.edu/login/wulogin.aspx?idp_ver=3&execution=e1s2&ref=https%3a%2f%2flogin.wustl.edu%2fidp%2fprofile%2fSAML2%2fRedirect%2fSSO%3fexecution%3de1s1",
+        "time": "7/11/2022, 10:27:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": "7/11/2022, 10:27:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3",
+        "time": "7/11/2022, 10:27:43 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": "7/11/2022, 10:27:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e3s1",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4",
+        "time": "7/11/2022, 10:27:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e3s1",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e3s1",
+        "time": "7/11/2022, 10:27:46 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.microsoftonline.com/login.srf",
+        "prevTabId": 722,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e3s1",
+        "time": "7/11/2022, 10:27:46 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://login.microsoftonline.com/login.srf",
+        "prevTabId": 722,
+        "prevUrl": "https://login.microsoftonline.com/login.srf",
+        "time": "7/11/2022, 10:27:47 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "time": "7/11/2022, 10:27:56 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/btheshoe/status/1545868002268049409?t=fbLxNu6ZLdiououX463MQw&s=19",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 10:28:37 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/hubermanlab",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/btheshoe/status/1545868002268049409?t=fbLxNu6ZLdiououX463MQw&s=19",
+        "time": "7/11/2022, 10:28:50 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/btheshoe/status/1545868002268049409?t=fbLxNu6ZLdiououX463MQw&s=19",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/hubermanlab",
+        "time": "7/11/2022, 10:28:52 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/btheshoe",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/btheshoe/status/1545868002268049409?t=fbLxNu6ZLdiououX463MQw&s=19",
+        "time": "7/11/2022, 10:29:03 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 730,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 730,
+        "prevUrl": "",
+        "time": "7/11/2022, 10:29:07 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 730,
+        "curUrl": "https://www.google.com/search?q=apida&oq=apida&aqs=chrome..69i57j46i199i465i512j46i433i512j0i512l4j0i10i512j0i512l2.3009j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 730,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 10:29:12 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/btheshoe/photo",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/btheshoe",
+        "time": "7/11/2022, 10:29:23 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/btheshoe",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/btheshoe/photo",
+        "time": "7/11/2022, 10:29:24 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 729,
+        "curUrl": "https://twitter.com/hillelogram/status/1499453579182194696",
+        "prevTabId": 729,
+        "prevUrl": "https://twitter.com/btheshoe",
+        "time": "7/11/2022, 10:29:42 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/967160930557374524/967171093699919983",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 10:30:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967171093699919983",
+        "time": "7/11/2022, 10:30:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "time": "7/11/2022, 10:31:57 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 728,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 728,
+        "prevUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "time": "7/11/2022, 10:32:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 722,
+        "prevUrl": "https://login.microsoftonline.com/login.srf",
+        "time": "7/11/2022, 10:32:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEOmYCrvlaZPq8stB29b2fI%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/11/2022, 10:32:51 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAObzSSH5a6dBqJ%2BSRQO10co%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEOmYCrvlaZPq8stB29b2fI%3D",
+        "time": "7/11/2022, 10:33:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAObzSSH5a6dBqJ%2BSRQO10co%3D",
+        "time": "7/11/2022, 10:33:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAObzSSH5a6dBqJ%2BSRQO10co%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 10:33:28 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 734,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 734,
+        "prevUrl": "",
+        "time": "7/11/2022, 10:33:46 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 734,
+        "curUrl": "https://www.google.com/search?q=adpllcrealestate%40gmail.com&oq=adpllcrealestate%40gmail.com&aqs=chrome..69i57j69i58.444j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 734,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 10:33:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 734,
+        "curUrl": "https://www.google.com/search?q=adpllcrealestate&sxsrf=ALiCzsbhZS-e-c8mH_TBr3yBNfy_kJ8Lkw%3A1657553594102&ei=ukLMYpi_BZTXptQPz_-NqA0&ved=0ahUKEwiYhLCplPH4AhWUq4kEHc9_A9UQ4dUDCA4&uact=5&oq=adpllcrealestate&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABKBAhGGABQAFgAYEdoAHAAeACAAQCIAQCSAQCYAQCgAQHAAQE&sclient=gws-wiz",
+        "prevTabId": 734,
+        "prevUrl": "https://www.google.com/search?q=adpllcrealestate%40gmail.com&oq=adpllcrealestate%40gmail.com&aqs=chrome..69i57j69i58.444j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 10:33:52 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAObzSSH5a6dBqJ%2BSRQO10co%3D",
+        "time": "7/11/2022, 10:34:06 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOye%2BtDuHSxLvpWL9fbZ9EI%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 10:34:10 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 737,
+        "curUrl": "https://parking.wustl.edu/items/student-permits/",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOye%2BtDuHSxLvpWL9fbZ9EI%3D",
+        "time": "7/11/2022, 10:34:36 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://washu.t2hosted.com/Account/Portal",
+        "prevTabId": 737,
+        "prevUrl": "https://parking.wustl.edu/items/student-permits/",
+        "time": "7/11/2022, 10:35:49 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://washu.t2hosted.com/cmn/auth_ext.aspx",
+        "prevTabId": 737,
+        "prevUrl": "https://washu.t2hosted.com/Account/Portal",
+        "time": "7/11/2022, 10:35:58 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e4s1",
+        "prevTabId": 737,
+        "prevUrl": "https://washu.t2hosted.com/cmn/auth_ext.aspx",
+        "time": "7/11/2022, 10:36:05 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e4s1",
+        "prevTabId": 737,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e4s1",
+        "time": "7/11/2022, 10:36:05 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://washu.t2hosted.com/per/index.aspx",
+        "prevTabId": 737,
+        "prevUrl": "https://login.wustl.edu/idp/profile/SAML2/Redirect/SSO?execution=e4s1",
+        "time": "7/11/2022, 10:36:06 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 737,
+        "curUrl": "https://washu.t2hosted.com/per/selectpermit.aspx",
+        "prevTabId": 737,
+        "prevUrl": "https://washu.t2hosted.com/per/index.aspx",
+        "time": "7/11/2022, 10:36:10 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 740,
+        "curUrl": "https://parking.wustl.edu/items/student-permits/",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOye%2BtDuHSxLvpWL9fbZ9EI%3D",
+        "time": "7/11/2022, 10:36:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOye%2BtDuHSxLvpWL9fbZ9EI%3D",
+        "time": "7/11/2022, 10:37:08 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 743,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 743,
+        "prevUrl": "",
+        "time": "7/11/2022, 10:39:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 743,
+        "curUrl": "https://docs.google.com/spreadsheets/d/1y2_ib-IqXcdv2lrjooDPkVhfbCfOQhjogNm5VyEvb0s/edit#gid=0",
+        "prevTabId": 743,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 10:39:27 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 744,
+        "curUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "prevTabId": 544,
+        "prevUrl": "https://www.techinterviewhandbook.org/grind75?hours=8",
+        "time": "7/11/2022, 10:42:04 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 745,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "prevTabId": 544,
+        "prevUrl": "https://www.techinterviewhandbook.org/grind75?hours=8",
+        "time": "7/11/2022, 10:42:08 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 744,
+        "curUrl": "https://leetcode.com/problems/implement-queue-using-stacks/solution/",
+        "prevTabId": 744,
+        "prevUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "time": "7/11/2022, 10:51:19 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 746,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 746,
+        "prevUrl": "",
+        "time": "7/11/2022, 10:58:00 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 746,
+        "curUrl": "https://www.google.com/search?q=are+tuples+mutable&oq=are+tuples+mutable&aqs=chrome..69i57j0i512l2j0i22i30l7.2049j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 746,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 10:58:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 746,
+        "curUrl": "https://www.google.com/search?q=are+tuples+hashable&sxsrf=ALiCzsYFvlMouv3RdJSz1lLNrzd_4AKrpw%3A1657555049147&ei=aUjMYs7MCLmlptQPzuueyAU&ved=0ahUKEwiOpZnfmfH4AhW5kokEHc61B1kQ4dUDCA4&uact=5&oq=are+tuples+hashable&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBQgAEIYDMgUIABCGAzIFCAAQhgMyBQgAEIYDOgcIABBHELADOgcIABCwAxBDOgUIABCABDoICAAQHhAPEBZKBAhBGABKBAhGGABQ2gNYqQ9gghBoAXABeACAAa8BiAHjCpIBAzAuOZgBAKABAcgBCsABAQ&sclient=gws-wiz",
+        "prevTabId": 746,
+        "prevUrl": "https://www.google.com/search?q=are+tuples+mutable&oq=are+tuples+mutable&aqs=chrome..69i57j0i512l2j0i22i30l7.2049j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 10:58:12 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 745,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/submissions/",
+        "prevTabId": 745,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "time": "7/11/2022, 11:17:04 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 745,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/submissions/",
+        "prevTabId": 745,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/submissions/",
+        "time": "7/11/2022, 11:27:41 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 748,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 748,
+        "prevUrl": "",
+        "time": "7/11/2022, 11:33:08 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "prevTabId": 748,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 11:33:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://www.google.com/search?q=leetcode+rotting+oranges&oq=leetcode+rotting+oranges&aqs=chrome..69i57j35i39j0i131i433i512j69i65j69i60j69i65j69i60l2.2511j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/",
+        "time": "7/11/2022, 11:33:18 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://www.google.com/search?q=leetcode+rotting+oranges+python+solution&sxsrf=ALiCzsZrysv0hiT2WfVqRKaidf7qKulnFQ%3A1657557159608&ei=p1DMYujfJNybptQP6cCogAU&ved=0ahUKEwioz8XNofH4AhXcjYkEHWkgClAQ4dUDCA4&uact=5&oq=leetcode+rotting+oranges+python+solution&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIICCEQHhAWEB06BwgAEEcQsAM6BggAEB4QFjoFCAAQhgM6BQghEKsCSgQIQRgASgQIRhgAULwJWLoXYLUYaAFwAXgAgAHZAYgBlhKSAQYwLjE0LjGYAQCgAQHIAQjAAQE&sclient=gws-wiz",
+        "prevTabId": 748,
+        "prevUrl": "https://www.google.com/search?q=leetcode+rotting+oranges&oq=leetcode+rotting+oranges&aqs=chrome..69i57j35i39j0i131i433i512j69i65j69i60j69i65j69i60l2.2511j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 11:33:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/238540/python-simple-bfs-solution",
+        "prevTabId": 748,
+        "prevUrl": "https://www.google.com/search?q=leetcode+rotting+oranges+python+solution&sxsrf=ALiCzsZrysv0hiT2WfVqRKaidf7qKulnFQ%3A1657557159608&ei=p1DMYujfJNybptQP6cCogAU&ved=0ahUKEwioz8XNofH4AhXcjYkEHWkgClAQ4dUDCA4&uact=5&oq=leetcode+rotting+oranges+python+solution&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIICCEQHhAWEB06BwgAEEcQsAM6BggAEB4QFjoFCAAQhgM6BQghEKsCSgQIQRgASgQIRhgAULwJWLoXYLUYaAFwAXgAgAHZAYgBlhKSAQYwLjE0LjGYAQCgAQHIAQjAAQE&sclient=gws-wiz",
+        "time": "7/11/2022, 11:33:30 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss/238540/python-simple-bfs-solution",
+        "time": "7/11/2022, 11:33:51 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/?currentPage=1&orderBy=most_relevant&query=python",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 11:33:54 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/1810073/Python-Solution",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss/?currentPage=1&orderBy=most_relevant&query=python",
+        "time": "7/11/2022, 11:34:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss?currentPage=1&orderBy=most_relevant&query=python",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss/1810073/Python-Solution",
+        "time": "7/11/2022, 11:34:41 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss?currentPage=1&orderBy=most_relevant&query=python",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss?currentPage=1&orderBy=most_relevant&query=python",
+        "time": "7/11/2022, 11:34:46 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/1992344/Python-BFS-solution",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss?currentPage=1&orderBy=most_relevant&query=python",
+        "time": "7/11/2022, 11:34:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 748,
+        "curUrl": "https://leetcode.com/problems/rotting-oranges/discuss/563686/Python-Clean-and-Well-Explained-(faster-than-greater-90)",
+        "prevTabId": 748,
+        "prevUrl": "https://leetcode.com/problems/rotting-oranges/discuss/1992344/Python-BFS-solution",
+        "time": "7/11/2022, 11:34:57 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/",
+        "prevTabId": 544,
+        "prevUrl": "https://www.techinterviewhandbook.org/grind75?hours=8",
+        "time": "7/11/2022, 11:37:48 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/solution/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/",
+        "time": "7/11/2022, 11:39:09 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/solution/",
+        "time": "7/11/2022, 11:39:26 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 11:56:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "time": "7/11/2022, 11:57:08 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 751,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 751,
+        "prevUrl": "",
+        "time": "7/11/2022, 11:58:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 751,
+        "curUrl": "https://www.google.com/search?q=python+enumerate&oq=python+enumerate&aqs=chrome..69i57j0i512l8j0i20i263i512.2168j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 751,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 11:58:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 751,
+        "curUrl": "https://realpython.com/python-enumerate/",
+        "prevTabId": 751,
+        "prevUrl": "https://www.google.com/search?q=python+enumerate&oq=python+enumerate&aqs=chrome..69i57j0i512l8j0i20i263i512.2168j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 11:58:59 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 753,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 753,
+        "prevUrl": "",
+        "time": "7/11/2022, 12:01:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 753,
+        "curUrl": "https://www.google.com/search?q=python+remove&oq=python+remove&aqs=chrome..69i57j0i67i433j35i39j69i60j69i65j69i61j69i65j69i60.1128j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 753,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 12:02:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 753,
+        "curUrl": "https://www.google.com/search?q=python+remove+by+index&sxsrf=ALiCzsYC0Lys1XL-3NnS-19glIrZ4WPQEw%3A1657558920940&ei=iFfMYpSNOdanptQPusuU6Ag&ved=0ahUKEwiU8bSVqPH4AhXWk4kEHbolBY0Q4dUDCA4&uact=5&oq=python+remove+by+index&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6BQgAEJECSgQIQRgASgQIRhgAUPAJWJgQYNkQaAFwAXgAgAGoAYgBiAmSAQMwLjiYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "prevTabId": 753,
+        "prevUrl": "https://www.google.com/search?q=python+remove&oq=python+remove&aqs=chrome..69i57j0i67i433j35i39j69i60j69i65j69i61j69i65j69i60.1128j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 12:02:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 753,
+        "curUrl": "https://stackoverflow.com/questions/627435/how-to-remove-an-element-from-a-list-by-index",
+        "prevTabId": 753,
+        "prevUrl": "https://www.google.com/search?q=python+remove+by+index&sxsrf=ALiCzsYC0Lys1XL-3NnS-19glIrZ4WPQEw%3A1657558920940&ei=iFfMYpSNOdanptQPusuU6Ag&ved=0ahUKEwiU8bSVqPH4AhXWk4kEHbolBY0Q4dUDCA4&uact=5&oq=python+remove+by+index&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6BwgjELADECc6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6BQgAEJECSgQIQRgASgQIRhgAUPAJWJgQYNkQaAFwAXgAgAGoAYgBiAmSAQMwLjiYAQCgAQHIAQrAAQE&sclient=gws-wiz",
+        "time": "7/11/2022, 12:02:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 743,
+        "curUrl": "https://www.google.com/search?q=python+set+extend&oq=python+set+extend&aqs=chrome.0.0i512l10.1647j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 743,
+        "prevUrl": "https://docs.google.com/spreadsheets/d/1y2_ib-IqXcdv2lrjooDPkVhfbCfOQhjogNm5VyEvb0s/edit#gid=0",
+        "time": "7/11/2022, 12:05:20 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 756,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 756,
+        "prevUrl": "",
+        "time": "7/11/2022, 12:24:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 756,
+        "curUrl": "https://www.google.com/search?q=python+insetr&oq=python+insetr&aqs=chrome..69i57j0i433i512j35i39l2j69i59j69i60j69i65j69i61.1168j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 756,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 12:24:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 756,
+        "curUrl": "https://www.programiz.com/python-programming/methods/list/insert",
+        "prevTabId": 756,
+        "prevUrl": "https://www.google.com/search?q=python+insetr&oq=python+insetr&aqs=chrome..69i57j0i433i512j35i39l2j69i59j69i60j69i65j69i61.1168j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 12:24:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/",
+        "time": "7/11/2022, 12:34:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "time": "7/11/2022, 12:34:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/",
+        "time": "7/11/2022, 12:35:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 12:35:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/",
+        "time": "7/11/2022, 12:35:08 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 758,
+        "curUrl": "https://leetcode.com/submissions/detail/744457497/testcase/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "time": "7/11/2022, 12:35:09 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 760,
+        "curUrl": "https://leetcode.com/submissions/detail/744457497/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "time": "7/11/2022, 12:35:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/solution/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/submissions/",
+        "time": "7/11/2022, 12:35:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/solution/",
+        "time": "7/11/2022, 12:37:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/discuss/425811/Why-this-question-is-not-a-hard-problem",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 12:37:16 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 761,
+        "curUrl": "https://leetcode.com/Yefee/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/discuss/425811/Why-this-question-is-not-a-hard-problem",
+        "time": "7/11/2022, 12:39:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 750,
+        "curUrl": "https://leetcode.com/problems/accounts-merge/",
+        "prevTabId": 750,
+        "prevUrl": "https://leetcode.com/problems/accounts-merge/discuss/425811/Why-this-question-is-not-a-hard-problem",
+        "time": "7/11/2022, 12:39:38 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 764,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 764,
+        "prevUrl": "",
+        "time": "7/11/2022, 12:40:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.google.com/search?q=union+find+algorithm&oq=unoin+find+&aqs=chrome.1.69i57j0i13i433j0i13l8.2279j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 764,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 12:40:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.geeksforgeeks.org/union-find/#:~:text=A%20union%2Dfind%20algorithm%20is,subsets%20into%20a%20single%20subset.",
+        "prevTabId": 764,
+        "prevUrl": "https://www.google.com/search?q=union+find+algorithm&oq=unoin+find+&aqs=chrome.1.69i57j0i13i433j0i13l8.2279j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 12:40:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 764,
+        "prevUrl": "https://www.geeksforgeeks.org/union-find/#:~:text=A%20union%2Dfind%20algorithm%20is,subsets%20into%20a%20single%20subset.",
+        "time": "7/11/2022, 12:40:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/11/2022, 12:40:46 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 765,
+        "curUrl": "https://www.youtube.com/watch?v=-7rntSmx1bU&ab_channel=videogamedunkey",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "time": "7/11/2022, 12:40:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 765,
+        "curUrl": "https://www.youtube.com/watch?v=-7rntSmx1bU&ab_channel=videogamedunkey",
+        "prevTabId": 765,
+        "prevUrl": "https://www.youtube.com/watch?v=-7rntSmx1bU",
+        "time": "7/11/2022, 12:40:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 765,
+        "curUrl": "https://www.youtube.com/watch?v=-7rntSmx1bU&ab_channel=videogamedunkey",
+        "prevTabId": 765,
+        "prevUrl": "https://www.youtube.com/watch?v=-7rntSmx1bU&ab_channel=videogamedunkey",
+        "time": "7/11/2022, 12:40:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "time": "7/11/2022, 12:41:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo",
+        "time": "7/11/2022, 12:41:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "time": "7/11/2022, 12:41:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "time": "7/11/2022, 12:41:20 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 766,
+        "curUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc&ab_channel=AbdulBari",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "time": "7/11/2022, 12:41:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 766,
+        "curUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc",
+        "prevTabId": 766,
+        "prevUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc&ab_channel=AbdulBari",
+        "time": "7/11/2022, 12:41:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 766,
+        "curUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc&ab_channel=AbdulBari",
+        "prevTabId": 766,
+        "prevUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc",
+        "time": "7/11/2022, 12:41:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 766,
+        "curUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc&ab_channel=AbdulBari",
+        "prevTabId": 766,
+        "prevUrl": "https://www.youtube.com/watch?v=wU6udHRIkcc&ab_channel=AbdulBari",
+        "time": "7/11/2022, 12:41:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/results?search_query=union+find+algorithm",
+        "time": "7/11/2022, 12:42:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo",
+        "time": "7/11/2022, 12:42:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "time": "7/11/2022, 12:42:47 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 767,
+        "curUrl": "https://www.youtube.com/channel/UCCMrFUH8RoorooLB7Va5mjg",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "time": "7/11/2022, 1:32:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 767,
+        "curUrl": "https://www.youtube.com/channel/UCCMrFUH8RoorooLB7Va5mjg/videos",
+        "prevTabId": 767,
+        "prevUrl": "https://www.youtube.com/channel/UCCMrFUH8RoorooLB7Va5mjg",
+        "time": "7/11/2022, 1:32:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 767,
+        "curUrl": "https://www.youtube.com/channel/UCCMrFUH8RoorooLB7Va5mjg/about",
+        "prevTabId": 767,
+        "prevUrl": "https://www.youtube.com/channel/UCCMrFUH8RoorooLB7Va5mjg/videos",
+        "time": "7/11/2022, 1:32:40 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=VHRhJWacxis",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=ayW5B2W9hfo&ab_channel=PotatoCoders",
+        "time": "7/11/2022, 1:37:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=VHRhJWacxis",
+        "time": "7/11/2022, 1:37:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 1:37:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 1:37:07 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/c/WilliamFiset-videos",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 1:45:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/c/WilliamFiset-videos",
+        "time": "7/11/2022, 1:49:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs&ab_channel=WilliamFiset",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs",
+        "time": "7/11/2022, 1:49:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs&ab_channel=WilliamFiset",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 1:49:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.google.com/search?q=union+find+pseudocode&oq=union+find+pseudocode&aqs=chrome..69i57.3584j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 764,
+        "prevUrl": "https://www.youtube.com/watch?v=VHRhJWacxis&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 1:49:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/",
+        "prevTabId": 764,
+        "prevUrl": "https://www.google.com/search?q=union+find+pseudocode&oq=union+find+pseudocode&aqs=chrome..69i57.3584j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 1:49:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://www.google.com/search?q=union+find+pseudocode&oq=union+find+pseudocode&aqs=chrome..69i57.3584j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 764,
+        "prevUrl": "https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/",
+        "time": "7/11/2022, 1:51:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 764,
+        "curUrl": "https://algorithms.tutorialhorizon.com/disjoint-set-union-find-algorithm-union-by-rank-and-path-compression/",
+        "prevTabId": 764,
+        "prevUrl": "https://www.google.com/search?q=union+find+pseudocode&oq=union+find+pseudocode&aqs=chrome..69i57.3584j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 1:51:52 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 771,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 771,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:07:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 771,
+        "curUrl": "https://www.google.com/search?q=get+into+med+school+with+a+3.0&oq=get+into+med+school+with+a+3.0&aqs=chrome..69i57j33i160j33i299l2.4929j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 771,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:07:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 771,
+        "curUrl": "https://www.quora.com/How-is-it-possible-to-get-into-medical-school-with-only-a-3-0-GPA",
+        "prevTabId": 771,
+        "prevUrl": "https://www.google.com/search?q=get+into+med+school+with+a+3.0&oq=get+into+med+school+with+a+3.0&aqs=chrome..69i57j33i160j33i299l2.4929j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:07:34 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 774,
+        "curUrl": "https://www.youtube.com/c/WilliamFiset-videos",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 2:10:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 774,
+        "curUrl": "https://www.youtube.com/c/WilliamFiset-videos/videos",
+        "prevTabId": 774,
+        "prevUrl": "https://www.youtube.com/c/WilliamFiset-videos",
+        "time": "7/11/2022, 2:10:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 774,
+        "curUrl": "https://www.youtube.com/watch?v=L1x3an2pl3U",
+        "prevTabId": 774,
+        "prevUrl": "https://www.youtube.com/c/WilliamFiset-videos/videos",
+        "time": "7/11/2022, 2:10:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 774,
+        "curUrl": "https://www.youtube.com/watch?v=L1x3an2pl3U&ab_channel=WilliamFiset",
+        "prevTabId": 774,
+        "prevUrl": "https://www.youtube.com/watch?v=L1x3an2pl3U",
+        "time": "7/11/2022, 2:10:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 774,
+        "curUrl": "https://www.youtube.com/watch?v=L1x3an2pl3U&ab_channel=WilliamFiset",
+        "prevTabId": 774,
+        "prevUrl": "https://www.youtube.com/watch?v=L1x3an2pl3U&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 2:10:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=xa6me8wou_k",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=JZBQLXgSGfs&ab_channel=WilliamFiset",
+        "time": "7/11/2022, 2:12:14 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=xa6me8wou_k&ab_channel=ForrestKnight",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=xa6me8wou_k",
+        "time": "7/11/2022, 2:12:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=xa6me8wou_k&ab_channel=ForrestKnight",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=xa6me8wou_k&ab_channel=ForrestKnight",
+        "time": "7/11/2022, 2:12:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/c/FKnight",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=xa6me8wou_k&ab_channel=ForrestKnight",
+        "time": "7/11/2022, 2:12:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/c/FKnight/videos",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/c/FKnight",
+        "time": "7/11/2022, 2:12:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=KcJdUC3EmKA",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/c/FKnight/videos",
+        "time": "7/11/2022, 2:12:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 770,
+        "curUrl": "https://www.youtube.com/watch?v=KcJdUC3EmKA&ab_channel=ForrestKnight",
+        "prevTabId": 770,
+        "prevUrl": "https://www.youtube.com/watch?v=KcJdUC3EmKA&ab_channel=ForrestKnight",
+        "time": "7/11/2022, 2:12:34 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "prevTabId": 544,
+        "prevUrl": "https://www.techinterviewhandbook.org/grind75?hours=8",
+        "time": "7/11/2022, 2:14:48 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "time": "7/11/2022, 2:14:58 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 780,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 780,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:18:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 780,
+        "curUrl": "https://www.google.com/search?q=python+get+index+of+item+in+list&oq=python+get+index+o&aqs=chrome.0.0i512j69i57j0i512l8.2295j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 780,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:18:12 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 782,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 782,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:22:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://www.google.com/search?q=python+indexout&oq=python+indexout&aqs=chrome..69i57j0i512l2j0i22i30l3j0i15i22i30.3433j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 782,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:22:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://www.google.com/search?q=python+indexoutofbounds&sxsrf=ALiCzsYYKNCevlQETag-LLdWBNyqwFhOsQ%3A1657567349257&ei=dXjMYvqpD_enptQP6O-H8Ag&oq=python+indexouto&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQgAQyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMggIABAeEA8QFjoHCAAQRxCwA0oECEEYAEoECEYYAFDnBVjnBWDACmgBcAF4AIABkgGIAZIBkgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "prevTabId": 782,
+        "prevUrl": "https://www.google.com/search?q=python+indexout&oq=python+indexout&aqs=chrome..69i57j0i512l2j0i22i30l3j0i15i22i30.3433j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:22:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://stackoverflow.com/questions/27481211/error-index-out-of-bounds-python",
+        "prevTabId": 782,
+        "prevUrl": "https://www.google.com/search?q=python+indexoutofbounds&sxsrf=ALiCzsYYKNCevlQETag-LLdWBNyqwFhOsQ%3A1657567349257&ei=dXjMYvqpD_enptQP6O-H8Ag&oq=python+indexouto&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQgAQyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMggIABAeEA8QFjoHCAAQRxCwA0oECEEYAEoECEYYAFDnBVjnBWDACmgBcAF4AIABkgGIAZIBkgEDMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "time": "7/11/2022, 2:22:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://www.google.com/search?q=indexoutofboundserror&oq=indexoutofboundserror&aqs=chrome..69i57j0i67j0i512l8.2128j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 782,
+        "prevUrl": "https://stackoverflow.com/questions/27481211/error-index-out-of-bounds-python",
+        "time": "7/11/2022, 2:22:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://www.google.com/search?q=python+error+types&oq=python+error+types&aqs=chrome.0.0i433i512j0i512l7j0i20i263i512j0i512.3816j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 782,
+        "prevUrl": "https://www.google.com/search?q=indexoutofboundserror&oq=indexoutofboundserror&aqs=chrome..69i57j0i67j0i512l8.2128j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:22:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://docs.python.org/3/library/exceptions.html",
+        "prevTabId": 782,
+        "prevUrl": "https://www.google.com/search?q=python+error+types&oq=python+error+types&aqs=chrome.0.0i433i512j0i512l7j0i20i263i512j0i512.3816j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:22:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 782,
+        "curUrl": "https://docs.python.org/3/library/exceptions.html#IndexError",
+        "prevTabId": 782,
+        "prevUrl": "https://docs.python.org/3/library/exceptions.html",
+        "time": "7/11/2022, 2:23:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "time": "7/11/2022, 2:25:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "time": "7/11/2022, 2:26:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "time": "7/11/2022, 2:26:39 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 783,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 783,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:27:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 783,
+        "curUrl": "https://www.google.com/search?q=preorder+traversal&oq=preorder+traversal&aqs=chrome.0.0i67i433j0i67l4j69i60l3.1832j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 783,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:27:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 783,
+        "curUrl": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/",
+        "prevTabId": 783,
+        "prevUrl": "https://www.google.com/search?q=preorder+traversal&oq=preorder+traversal&aqs=chrome.0.0i67i433j0i67l4j69i60l3.1832j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:27:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 783,
+        "curUrl": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/",
+        "prevTabId": 783,
+        "prevUrl": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/",
+        "time": "7/11/2022, 2:27:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "time": "7/11/2022, 2:28:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 2:28:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "time": "7/11/2022, 2:28:33 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 784,
+        "curUrl": "https://leetcode.com/submissions/detail/744548237/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "time": "7/11/2022, 2:28:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "time": "7/11/2022, 2:29:21 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 786,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 786,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:30:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.google.com/search?q=all+dz+chains&oq=all+dz+chains&aqs=chrome..69i57j46i131i433i512j0i512l2.1575j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 786,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:30:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "prevTabId": 786,
+        "prevUrl": "https://www.google.com/search?q=all+dz+chains&oq=all+dz+chains&aqs=chrome..69i57j46i131i433i512j0i512l2.1575j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:30:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "time": "7/11/2022, 2:30:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc",
+        "time": "7/11/2022, 2:30:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "time": "7/11/2022, 2:30:27 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 788,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 788,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:30:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://www.google.com/search?q=all+dz+chains+genius&oq=all+dz+chains+genius&aqs=chrome..69i57l2j0i271l3j69i61j69i60j69i61.1817j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 788,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:30:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/Gucci-mane-all-dz-chainz-lyrics",
+        "prevTabId": 788,
+        "prevUrl": "https://www.google.com/search?q=all+dz+chains+genius&oq=all+dz+chains+genius&aqs=chrome..69i57l2j0i271l3j69i61j69i60j69i61.1817j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:30:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/Gucci-mane-all-dz-chainz-lyrics",
+        "time": "7/11/2022, 2:32:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/25745506",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "time": "7/11/2022, 2:32:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/25617838",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "time": "7/11/2022, 2:33:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/25617838",
+        "time": "7/11/2022, 2:33:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/25605633",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "time": "7/11/2022, 2:33:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/25605633",
+        "time": "7/11/2022, 2:33:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/25274109",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "time": "7/11/2022, 2:33:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 788,
+        "curUrl": "https://genius.com/Gucci-mane-publicity-stunt-lyrics",
+        "prevTabId": 788,
+        "prevUrl": "https://genius.com/25274109",
+        "time": "7/11/2022, 2:33:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.google.com/search?q=so+icy+gang&oq=so+icy+gang&aqs=chrome..69i57j35i39l2j69i65l2j69i60l3.1199j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=p1Tqr-tzTJc&ab_channel=GucciMane",
+        "time": "7/11/2022, 2:33:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.google.com/search?q=mulatto&oq=mulatto&aqs=chrome..69i57j46i67i131i433j0i67j0i67i433j46i67j46i67i131i433j46i67j46i67i131i433j0i67j0i271.847j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 786,
+        "prevUrl": "https://www.google.com/search?q=so+icy+gang&oq=so+icy+gang&aqs=chrome..69i57j35i39l2j69i65l2j69i60l3.1199j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:34:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.google.com/search?q=mulatto+changed+name&sxsrf=ALiCzsbccpqn77tjVdBEWr1gLPT2cbUy8A%3A1657568042014&ei=KnvMYvw9_cfQ8Q_ZtaCwCQ&oq=mulatto+chang&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEJECMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgQIABBDOggIABCABBCxAzoFCC4QgAQ6BQguEJECOgQILhAKOgQIABAKOgUIABCGA0oECEEYAUoECEYYAFDmBFjtCGCWEWgBcAB4AIABnQGIAfAGkgEDMC42mAEAoAEBwAEB&sclient=gws-wiz",
+        "prevTabId": 786,
+        "prevUrl": "https://www.google.com/search?q=mulatto&oq=mulatto&aqs=chrome..69i57j46i67i131i433j0i67j0i67i433j46i67j46i67i131i433j46i67j46i67i131i433j0i67j0i271.847j0j9&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:34:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.google.com/search?q=latto&sxsrf=ALiCzsai_pNXB66CaizxHHpyKyGPWE_h5Q%3A1657568050808&ei=MnvMYt31MKmH0PEPxbWBqAQ&ved=0ahUKEwjd1u-WyvH4AhWpAzQIHcVaAEUQ4dUDCA4&uact=5&oq=latto&gs_lcp=Cgdnd3Mtd2l6EAMyBQguEJECMgQILhBDMgcILhCxAxBDMgQILhBDMgQIABBDMgQILhBDMgQIABBDMgQILhBDMgQIABBDMgUIABCRAjoECCMQJzoRCC4QgAQQsQMQgwEQxwEQ0QM6BQguEIAEOhQILhCABBCxAxCDARDHARDRAxDUAjoFCC4QsQM6CgguELEDEIMBEEM6DgguEIAEELEDEIMBENQCSgQIQRgASgQIRhgAUABYlQNg_wNoAHABeACAAdIBiAGdBJIBBTAuMi4xmAEAoAEBwAEB&sclient=gws-wiz",
+        "prevTabId": 786,
+        "prevUrl": "https://www.google.com/search?q=mulatto+changed+name&sxsrf=ALiCzsbccpqn77tjVdBEWr1gLPT2cbUy8A%3A1657568042014&ei=KnvMYvw9_cfQ8Q_ZtaCwCQ&oq=mulatto+chang&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEJECMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgQIABBDOggIABCABBCxAzoFCC4QgAQ6BQguEJECOgQILhAKOgQIABAKOgUIABCGA0oECEEYAUoECEYYAFDmBFjtCGCWEWgBcAB4AIABnQGIAfAGkgEDMC42mAEAoAEBwAEB&sclient=gws-wiz",
+        "time": "7/11/2022, 2:34:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "prevTabId": 786,
+        "prevUrl": "https://www.google.com/search?q=latto&sxsrf=ALiCzsai_pNXB66CaizxHHpyKyGPWE_h5Q%3A1657568050808&ei=MnvMYt31MKmH0PEPxbWBqAQ&ved=0ahUKEwjd1u-WyvH4AhWpAzQIHcVaAEUQ4dUDCA4&uact=5&oq=latto&gs_lcp=Cgdnd3Mtd2l6EAMyBQguEJECMgQILhBDMgcILhCxAxBDMgQILhBDMgQIABBDMgQILhBDMgQIABBDMgQILhBDMgQIABBDMgUIABCRAjoECCMQJzoRCC4QgAQQsQMQgwEQxwEQ0QM6BQguEIAEOhQILhCABBCxAxCDARDHARDRAxDUAjoFCC4QsQM6CgguELEDEIMBEEM6DgguEIAEELEDEIMBENQCSgQIQRgASgQIRhgAUABYlQNg_wNoAHABeACAAdIBiAGdBJIBBTAuMi4xmAEAoAEBwAEB&sclient=gws-wiz",
+        "time": "7/11/2022, 2:34:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "time": "7/11/2022, 2:34:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA",
+        "time": "7/11/2022, 2:34:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "time": "7/11/2022, 2:34:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=T8GpG8C0YzA&ab_channel=LattoVEVO",
+        "time": "7/11/2022, 2:34:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/11/2022, 2:34:32 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU&ab_channel=KeyGlockVEVO",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU",
+        "time": "7/11/2022, 2:34:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU&ab_channel=KeyGlockVEVO",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU&ab_channel=KeyGlockVEVO",
+        "time": "7/11/2022, 2:34:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=mV30rcc30o4",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=7u6L-ykSLPU&ab_channel=KeyGlockVEVO",
+        "time": "7/11/2022, 2:34:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=mV30rcc30o4&ab_channel=PierreBourne",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=mV30rcc30o4",
+        "time": "7/11/2022, 2:34:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 786,
+        "curUrl": "https://www.youtube.com/watch?v=mV30rcc30o4&ab_channel=PierreBourne",
+        "prevTabId": 786,
+        "prevUrl": "https://www.youtube.com/watch?v=mV30rcc30o4&ab_channel=PierreBourne",
+        "time": "7/11/2022, 2:34:53 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "time": "7/11/2022, 2:36:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/",
+        "time": "7/11/2022, 2:41:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 778,
+        "curUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/34579/Python-short-recursive-solution.",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 2:41:11 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 792,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 792,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:50:23 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 794,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 794,
+        "prevUrl": "",
+        "time": "7/11/2022, 2:51:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 794,
+        "curUrl": "https://www.google.com/search?q=10000*10000&oq=10000*10000&aqs=chrome..69i57j6.3055j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 794,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 2:51:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 794,
+        "curUrl": "https://www.google.com/search?q=how+long+for+copmuter+to+do+100+million+operations&oq=how+long+for+copmuter+to+do+100+million+operations&aqs=chrome..69i57j33i10i160l5j33i10i299l2j33i10i22i29i30l2.5752j0j9&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 794,
+        "prevUrl": "https://www.google.com/search?q=10000*10000&oq=10000*10000&aqs=chrome..69i57j6.3055j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 2:51:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "time": "7/11/2022, 2:52:51 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 796,
+        "curUrl": "https://leetcode.com/submissions/detail/744566771/testcase/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 2:53:09 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 798,
+        "curUrl": "https://leetcode.com/submissions/detail/744566771/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 2:53:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 2:53:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "time": "7/11/2022, 3:05:19 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 800,
+        "curUrl": "https://leetcode.com/submissions/detail/744566771/testcase/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 3:05:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 3:05:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 3:05:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 3:06:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "time": "7/11/2022, 3:07:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 3:07:56 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 3:07:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_relevant&query=python",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 3:08:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 779,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/1038263/Python-Solution",
+        "prevTabId": 779,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_relevant&query=python",
+        "time": "7/11/2022, 3:08:08 PM"
+    },
+    {
+        "action": "hyperlink opened in new window",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/1038263/Python-Solution",
+        "prevTabId": 778,
+        "prevUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/34579/Python-short-recursive-solution.",
+        "time": "7/11/2022, 3:08:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "prevTabId": 803,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/1038263/Python-Solution",
+        "time": "7/11/2022, 3:08:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 803,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "time": "7/11/2022, 3:11:05 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "prevTabId": 803,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "time": "7/11/2022, 3:11:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "prevTabId": 803,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/discuss/?currentPage=1&orderBy=most_votes&query=",
+        "time": "7/11/2022, 3:11:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 803,
+        "curUrl": "https://leetcode.com/problems/container-with-most-water/submissions/",
+        "prevTabId": 803,
+        "prevUrl": "https://leetcode.com/problems/container-with-most-water/",
+        "time": "7/11/2022, 3:11:33 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 804,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 804,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:12:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 804,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:12:42 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/results?search_query=container+with+most+watetr",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/11/2022, 3:12:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/results?search_query=container+with+most+watetr",
+        "time": "7/11/2022, 3:12:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo",
+        "time": "7/11/2022, 3:12:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode",
+        "time": "7/11/2022, 3:12:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/c/NeetCode",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode",
+        "time": "7/11/2022, 3:15:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 804,
+        "curUrl": "https://www.youtube.com/c/NeetCode/videos",
+        "prevTabId": 804,
+        "prevUrl": "https://www.youtube.com/c/NeetCode",
+        "time": "7/11/2022, 3:15:01 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 808,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 808,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:16:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 808,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:16:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 3:16:40 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "time": "7/11/2022, 3:16:42 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 809,
+        "curUrl": "http://www.math.columbia.edu/~thaddeus/ranking/investigation.html",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:17:05 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 811,
+        "curUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/?sh=48c911a34a76",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:17:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/?sh=48c911a34a76",
+        "prevTabId": 811,
+        "prevUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/?sh=48c911a34a76",
+        "time": "7/11/2022, 3:17:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.google.com/search?q=u.s+news+college+rankings&oq=u.s+news+college+rankings&aqs=chrome.0.0i512j0i22i30l2j0i10i22i30j0i22i30j69i60l3.3423j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 811,
+        "prevUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/?sh=48c911a34a76",
+        "time": "7/11/2022, 3:19:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.usnews.com/best-colleges",
+        "prevTabId": 811,
+        "prevUrl": "https://www.google.com/search?q=u.s+news+college+rankings&oq=u.s+news+college+rankings&aqs=chrome.0.0i512j0i22i30l2j0i10i22i30j0i22i30j69i60l3.3423j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 3:19:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.usnews.com/best-colleges/rankings/national-universities",
+        "prevTabId": 811,
+        "prevUrl": "https://www.usnews.com/best-colleges",
+        "time": "7/11/2022, 3:19:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520",
+        "prevTabId": 811,
+        "prevUrl": "https://www.usnews.com/best-colleges/rankings/national-universities",
+        "time": "7/11/2022, 3:19:30 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 811,
+        "curUrl": "https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520/academics",
+        "prevTabId": 811,
+        "prevUrl": "https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520",
+        "time": "7/11/2022, 3:19:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:19:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "time": "7/11/2022, 3:19:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "time": "7/11/2022, 3:19:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "time": "7/11/2022, 3:19:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "time": "7/11/2022, 3:20:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:20:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "time": "7/11/2022, 3:20:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:21:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:21:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:21:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 808,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 808,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "time": "7/11/2022, 3:21:46 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 814,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 814,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:23:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 814,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:23:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 3:23:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:23:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:24:36 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 815,
+        "curUrl": "https://www.usnews.com/best-colleges/rankings/national-universities",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:25:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/757581218085863474/758730682796343336",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:25:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/757581218085863474/758730682796343336",
+        "time": "7/11/2022, 3:25:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:26:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "time": "7/11/2022, 3:26:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:26:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:26:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/979198095755739287",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "time": "7/11/2022, 3:26:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/979198095755739287",
+        "time": "7/11/2022, 3:26:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/978889471359614976",
+        "time": "7/11/2022, 3:26:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/976980107514228786",
+        "time": "7/11/2022, 3:26:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:26:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "time": "7/11/2022, 3:26:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/757581218085863474/758730682796343336",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:26:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 814,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 814,
+        "prevUrl": "https://discord.com/channels/757581218085863474/758730682796343336",
+        "time": "7/11/2022, 3:26:48 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 818,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 818,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:43:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 818,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:43:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/results?search_query=nk+music",
+        "prevTabId": 818,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/11/2022, 3:43:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU",
+        "prevTabId": 818,
+        "prevUrl": "https://www.youtube.com/results?search_query=nk+music",
+        "time": "7/11/2022, 3:43:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU&ab_channel=nkmusic",
+        "prevTabId": 818,
+        "prevUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU",
+        "time": "7/11/2022, 3:43:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU&ab_channel=nkmusic",
+        "prevTabId": 818,
+        "prevUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU&ab_channel=nkmusic",
+        "time": "7/11/2022, 3:43:38 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 818,
+        "curUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU&ab_channel=nkmusic",
+        "prevTabId": 818,
+        "prevUrl": "https://www.youtube.com/watch?v=bGO-93ycKCU&ab_channel=nkmusic",
+        "time": "7/11/2022, 3:43:39 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 820,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 820,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:43:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 820,
+        "curUrl": "https://docs.google.com/document/u/0/",
+        "prevTabId": 820,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:44:00 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 821,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 821,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:44:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 821,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:44:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAAI1WOkrT3lDmngyYERZcGs%3D",
+        "prevTabId": 821,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/11/2022, 3:45:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAIuGmfH70JxNt6TaW%2BB8nNo%3D",
+        "prevTabId": 821,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAAI1WOkrT3lDmngyYERZcGs%3D",
+        "time": "7/11/2022, 3:45:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKIIol0rDJVBjY%2BmzisTJ1c%3D",
+        "prevTabId": 821,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAIuGmfH70JxNt6TaW%2BB8nNo%3D",
+        "time": "7/11/2022, 3:45:11 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAIuGmfH70JxNt6TaW%2BB8nNo%3D",
+        "prevTabId": 821,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKIIol0rDJVBjY%2BmzisTJ1c%3D",
+        "time": "7/11/2022, 3:45:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 821,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAAI1WOkrT3lDmngyYERZcGs%3D",
+        "prevTabId": 821,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAIuGmfH70JxNt6TaW%2BB8nNo%3D",
+        "time": "7/11/2022, 3:45:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 820,
+        "curUrl": "https://docs.google.com/document/d/1JhU1JU7vXj2ooXAaqc5txLeBh2CgQ457H7JGwcoCbE8/edit",
+        "prevTabId": 820,
+        "prevUrl": "https://docs.google.com/document/u/0/",
+        "time": "7/11/2022, 3:46:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 3:51:30 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJryHQZATkBFq6Ec6NlcLmw%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "time": "7/11/2022, 3:51:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJryHQZATkBFq6Ec6NlcLmw%3D",
+        "time": "7/11/2022, 3:51:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "time": "7/11/2022, 3:51:36 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 820,
+        "curUrl": "https://docs.google.com/document/u/0/",
+        "prevTabId": 820,
+        "prevUrl": "https://docs.google.com/document/d/1JhU1JU7vXj2ooXAaqc5txLeBh2CgQ457H7JGwcoCbE8/edit",
+        "time": "7/11/2022, 3:51:55 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 820,
+        "curUrl": "https://docs.google.com/document/d/1vq-SVI7viniRTjziZ9ztv3esL8L_7D4tbrG9GVLoUPo/edit",
+        "prevTabId": 820,
+        "prevUrl": "https://docs.google.com/document/u/0/",
+        "time": "7/11/2022, 3:52:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADkys3QLMnFNr6X3mFKM8oM%3D",
+        "time": "7/11/2022, 3:52:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKoSWVWstsBCng%2Fm0Bw%2FumU%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "time": "7/11/2022, 3:52:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKldR5kb%2B5lNl0X%2F8rg79is%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKoSWVWstsBCng%2Fm0Bw%2FumU%3D",
+        "time": "7/11/2022, 3:52:49 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKldR5kb%2B5lNl0X%2F8rg79is%3D",
+        "time": "7/11/2022, 3:52:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAAAGWbdZ%2FF1Hhzd664ouAQs%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "time": "7/11/2022, 3:52:51 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 824,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 824,
+        "prevUrl": "",
+        "time": "7/11/2022, 3:53:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 824,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 824,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 3:53:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 824,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 824,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 3:53:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 824,
+        "curUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "prevTabId": 824,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 3:53:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 824,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 824,
+        "prevUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "time": "7/11/2022, 3:53:58 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 826,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 826,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:03:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 826,
+        "curUrl": "https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html",
+        "prevTabId": 826,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:03:31 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 828,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 828,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:06:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 828,
+        "curUrl": "https://www.google.com/search?q=BEN+MUELLER+is+checking+tht+code+histories+is+working+!!!!&oq=BEN+MUELLER+is+checking+tht+code+histories+is+working+!!!!&aqs=chrome..69i57j33i10i160l3.8289j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 828,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:07:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAAAGWbdZ%2FF1Hhzd664ouAQs%3D",
+        "time": "7/11/2022, 4:08:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 722,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMWFHDak6pdAh9zcCNdBu0A%3D",
+        "prevTabId": 722,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "time": "7/11/2022, 4:08:11 PM"
     }
 ]
