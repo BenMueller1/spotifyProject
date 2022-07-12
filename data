@@ -22942,5 +22942,69 @@
         "prevTabId": 872,
         "prevUrl": "",
         "time": "7/12/2022, 11:41:16 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 872,
+        "curUrl": "http://localhost:8000/",
+        "prevTabId": 872,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:42:42 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 872,
+        "curUrl": "http://localhost:8000/",
+        "prevTabId": 872,
+        "prevUrl": "http://localhost:8000/",
+        "time": "7/12/2022, 11:44:46 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 874,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 874,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:49:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 874,
+        "curUrl": "https://www.google.com/search?q=react.strictmode&oq=react.strictmode&aqs=chrome..69i57j0i512l9.1903j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 874,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:49:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 874,
+        "curUrl": "https://reactjs.org/docs/strict-mode.html",
+        "prevTabId": 874,
+        "prevUrl": "https://www.google.com/search?q=react.strictmode&oq=react.strictmode&aqs=chrome..69i57j0i512l9.1903j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/12/2022, 11:49:16 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 876,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 876,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:51:40 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 876,
+        "curUrl": "https://www.google.com/search?q=install+axios&oq=install+axios&aqs=chrome..69i57j0i512l9.1480j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 876,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:51:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 876,
+        "curUrl": "https://www.npmjs.com/package/axios",
+        "prevTabId": 876,
+        "prevUrl": "https://www.google.com/search?q=install+axios&oq=install+axios&aqs=chrome..69i57j0i512l9.1480j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/12/2022, 11:51:46 AM"
     }
 ]
