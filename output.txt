@@ -1,4 +1,11 @@
-C:\Users\benjm\git\spotifyProject> & c:/Users/benjm/git/spotifyProject/venv/Scripts/python.exe c:/Users/benjm/git/spotifyProject/spotifyPro
-ject/tst.pyX
-does it work from subdirectory?X
-(venv) PS 
+C:\Users\benjm\git\spotifyProject> & c:/Users/benjm/git/spotifyProject/venv/Scripts/python.exe c:/Users/benjm/git/spotifyProject/tes.pyX
+is code histories workingX
+X
+X
+X
+X
+X
+X
+X
+X
+X(venv) PS 

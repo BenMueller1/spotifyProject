@@ -21294,5 +21294,1645 @@
         "prevTabId": 722,
         "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
         "time": "7/11/2022, 4:08:11 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 830,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 830,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:09:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 830,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:09:28 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 830,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 4:09:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.google.com/search?q=r%2Fwashu&oq=r%2Fwashu&aqs=chrome.0.69i59l2j0i5i30j69i58j69i60j69i65j69i60l2.814j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 830,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 4:09:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/washu/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.google.com/search?q=r%2Fwashu&oq=r%2Fwashu&aqs=chrome.0.69i59l2j0i5i30j69i58j69i60j69i65j69i60l2.814j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 4:09:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/washu/comments/vv5mia/calc_question/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/washu/",
+        "time": "7/11/2022, 4:09:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.google.com/search?q=r%2Fcsmajors&oq=r%2Fcsmajors&aqs=chrome.0.35i39l2j0i20i263i512j69i60j69i58j69i60l2j69i65.3175j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/washu/comments/vv5mia/calc_question/",
+        "time": "7/11/2022, 4:10:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.google.com/search?q=r%2Fcsmajors&oq=r%2Fcsmajors&aqs=chrome.0.35i39l2j0i20i263i512j69i60j69i58j69i60l2j69i65.3175j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 4:10:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/comments/v2g8vg/2023_recruiting_resources/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/",
+        "time": "7/11/2022, 4:10:45 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 831,
+        "curUrl": "https://github.com/pittcsc/Summer2023-Internships",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/comments/v2g8vg/2023_recruiting_resources/",
+        "time": "7/11/2022, 4:10:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/comments/v2g8vg/2023_recruiting_resources/",
+        "time": "7/11/2022, 4:10:53 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 832,
+        "curUrl": "https://www.clearancejobs.com/jobs/6504814/software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=1655348950763kci9hixse",
+        "prevTabId": 831,
+        "prevUrl": "https://github.com/pittcsc/Summer2023-Internships",
+        "time": "7/11/2022, 4:11:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 832,
+        "curUrl": "https://www.clearancejobs.com/jobs/6504814/software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=1655348950763kci9hixse",
+        "prevTabId": 832,
+        "prevUrl": "https://www.clearancejobs.com/jobs/6504814/software-engineer-intern?utm_source=linkedin-cj-organic&utm_medium=jobfeed&utm_campaign=url&_ccid=1655348950763kci9hixse",
+        "time": "7/11/2022, 4:11:23 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 834,
+        "curUrl": "https://www.capitalonecareers.com/job/mclean/technology-internship-program-summer-2023/31238/31914110656",
+        "prevTabId": 831,
+        "prevUrl": "https://github.com/pittcsc/Summer2023-Internships",
+        "time": "7/11/2022, 4:11:30 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers!loading",
+        "prevTabId": 831,
+        "prevUrl": "https://github.com/pittcsc/Summer2023-Internships",
+        "time": "7/11/2022, 4:12:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers!loading",
+        "time": "7/11/2022, 4:12:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "time": "7/11/2022, 4:12:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "time": "7/11/2022, 4:12:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#akunacademy",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=",
+        "time": "7/11/2022, 4:12:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=#akunacademy",
+        "time": "7/11/2022, 4:12:09 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 836,
+        "curUrl": "https://akunacapital.com/careers?experience=intern&search_term=#akunacademy",
+        "prevTabId": 836,
+        "prevUrl": "https://akunacapital.com/careers?experience=intern&search_term=#careers",
+        "time": "7/11/2022, 4:12:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/comments/vwml3k/is_leetcode_absolutely_necessary_to_get_ahead/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/",
+        "time": "7/11/2022, 4:12:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/comments/vwml3k/is_leetcode_absolutely_necessary_to_get_ahead/",
+        "time": "7/11/2022, 4:13:01 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/comments/vwp18k/got_asked_a_coding_question_for_amazon_30_minute/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/",
+        "time": "7/11/2022, 4:13:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/comments/vwp18k/got_asked_a_coding_question_for_amazon_30_minute/",
+        "time": "7/11/2022, 4:13:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.reddit.com/r/csMajors/comments/vvvsg4/im_in_awe/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/",
+        "time": "7/11/2022, 4:13:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.reddit.com/r/csMajors/comments/vvvsg4/im_in_awe/",
+        "time": "7/11/2022, 4:13:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/feed/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:13:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/messaging/thread/2-OGRjYzMxMTUtZjlmMC00ZDI0LThjNDMtMGYxY2RjZjg4YWFhXzAxMg==/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/feed/",
+        "time": "7/11/2022, 4:14:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/messaging/thread/2-NzU5YjRhY2EtZjMwMi00YjVkLTgwMDctYjY4YzBlOWZhMGU5XzAxMA==/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/messaging/thread/2-OGRjYzMxMTUtZjlmMC00ZDI0LThjNDMtMGYxY2RjZjg4YWFhXzAxMg==/",
+        "time": "7/11/2022, 4:14:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/feed/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/messaging/thread/2-NzU5YjRhY2EtZjMwMi00YjVkLTgwMDctYjY4YzBlOWZhMGU5XzAxMA==/",
+        "time": "7/11/2022, 4:14:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/notifications/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/feed/",
+        "time": "7/11/2022, 4:14:17 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 830,
+        "curUrl": "https://www.linkedin.com/feed/",
+        "prevTabId": 830,
+        "prevUrl": "https://www.linkedin.com/notifications/",
+        "time": "7/11/2022, 4:14:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-19-2-20",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#improved-error-message",
+        "time": "7/11/2022, 4:23:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#inline-styles",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-19-2-20",
+        "time": "7/11/2022, 4:23:55 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 839,
+        "curUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#inline-styles",
+        "time": "7/11/2022, 4:25:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part2/adding_styles_to_react_app#inline-styles",
+        "time": "7/11/2022, 4:26:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/about",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/",
+        "time": "7/11/2022, 4:26:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/about",
+        "time": "7/11/2022, 4:26:54 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3",
+        "time": "7/11/2022, 4:26:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "time": "7/11/2022, 4:27:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/about",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/",
+        "time": "7/11/2022, 4:27:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/about",
+        "time": "7/11/2022, 4:27:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3",
+        "time": "7/11/2022, 4:30:02 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 842,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 842,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:30:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 842,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 842,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:30:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 842,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 842,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 4:30:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 842,
+        "curUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "prevTabId": 842,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 4:30:29 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 842,
+        "curUrl": "https://discord.com/channels/937027655121915984/989165988396273725",
+        "prevTabId": 842,
+        "prevUrl": "https://discord.com/channels/937027655121915984/937038781301805106",
+        "time": "7/11/2022, 4:30:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 842,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 842,
+        "prevUrl": "https://discord.com/channels/937027655121915984/989165988396273725",
+        "time": "7/11/2022, 4:30:40 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 844,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 844,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:30:53 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:30:56 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/search/results/all/?keywords=sam%20g%20washington%20university&origin=GLOBAL_SEARCH_HEADER&sid=ppn",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:31:06 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/search/results/all/?keywords=sam%20washington%20university&origin=GLOBAL_SEARCH_HEADER&sid=bRv",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/search/results/all/?keywords=sam%20g%20washington%20university&origin=GLOBAL_SEARCH_HEADER&sid=ppn",
+        "time": "7/11/2022, 4:31:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/search/results/all/?keywords=sam%20washington%20university&origin=GLOBAL_SEARCH_HEADER&sid=bRv",
+        "time": "7/11/2022, 4:31:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/sam-swire/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADEdMRoBBys-IHTCMKjAezAfpITgZhyPMbU",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "time": "7/11/2022, 4:31:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/sam-swire/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/sam-swire/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADEdMRoBBys-IHTCMKjAezAfpITgZhyPMbU",
+        "time": "7/11/2022, 4:31:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/sam-swire/",
+        "time": "7/11/2022, 4:31:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/samgriesemer/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "time": "7/11/2022, 4:32:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/samgriesemer/",
+        "time": "7/11/2022, 4:32:31 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/search/results/people/?keywords=sam%20washington%20university&origin=CLUSTER_EXPANSION&sid=LHz",
+        "time": "7/11/2022, 4:32:40 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:32:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:33:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "time": "7/11/2022, 4:33:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/new/?profileFormEntryPoint=PROFILE_SECTION",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:33:21 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 845,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 845,
+        "prevUrl": "",
+        "time": "7/11/2022, 4:34:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 845,
+        "curUrl": "https://www.google.com/search?q=what+is+grade+in+linkedin+education&oq=what+is+grade+in+linkedin+edu&aqs=chrome.0.0i512j69i57j0i390l2.3887j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 845,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 4:34:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 845,
+        "curUrl": "https://www.linkedin-makeover.com/2012/01/26/linkedin-education-gets-a-grade/#:~:text=The%20education%20section%20has%20a,It%20says%20grade%2C%20not%20GPA.",
+        "prevTabId": 845,
+        "prevUrl": "https://www.google.com/search?q=what+is+grade+in+linkedin+education&oq=what+is+grade+in+linkedin+edu&aqs=chrome.0.0i512j69i57j0i390l2.3887j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 4:34:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/new/?profileFormEntryPoint=PROFILE_SECTION",
+        "time": "7/11/2022, 4:34:46 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:34:51 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "time": "7/11/2022, 4:34:57 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/school/washington-university-in-st-louis/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:34:59 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/school/washington-university-in-st-louis/",
+        "time": "7/11/2022, 4:35:00 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:35:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/school/washington-university-in-st-louis/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:35:08 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/school/washington-university-in-st-louis/",
+        "time": "7/11/2022, 4:35:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:35:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/reorder/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:35:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/reorder/",
+        "time": "7/11/2022, 4:35:22 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:35:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:35:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:35:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/edit/forms/778886475/?profileFormEntryPoint=PROFILE_SECTION",
+        "time": "7/11/2022, 4:35:50 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/education/",
+        "time": "7/11/2022, 4:35:53 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/courses/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "time": "7/11/2022, 4:35:58 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 844,
+        "curUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/",
+        "prevTabId": 844,
+        "prevUrl": "https://www.linkedin.com/in/benjamin-mueller-597653232/details/courses/",
+        "time": "7/11/2022, 4:36:04 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 848,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 848,
+        "prevUrl": "",
+        "time": "7/11/2022, 8:35:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 848,
+        "curUrl": "https://www.youtube.com/",
+        "prevTabId": 848,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 8:35:20 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 848,
+        "curUrl": "https://www.youtube.com/watch?v=kGRbdpAFLv0",
+        "prevTabId": 848,
+        "prevUrl": "https://www.youtube.com/",
+        "time": "7/11/2022, 8:35:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 848,
+        "curUrl": "https://www.youtube.com/watch?v=kGRbdpAFLv0&ab_channel=nkmusic",
+        "prevTabId": 848,
+        "prevUrl": "https://www.youtube.com/watch?v=kGRbdpAFLv0",
+        "time": "7/11/2022, 8:35:22 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 848,
+        "curUrl": "https://www.youtube.com/watch?v=kGRbdpAFLv0&ab_channel=nkmusic",
+        "prevTabId": 848,
+        "prevUrl": "https://www.youtube.com/watch?v=kGRbdpAFLv0&ab_channel=nkmusic",
+        "time": "7/11/2022, 8:35:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#rest",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "time": "7/11/2022, 8:53:10 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#web-and-express",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#rest",
+        "time": "7/11/2022, 8:53:16 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 849,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 849,
+        "prevUrl": "",
+        "time": "7/11/2022, 8:55:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 849,
+        "curUrl": "https://www.google.com/search?q=express+js&oq=express+js&aqs=chrome..69i57j0i131i433i512j0i512l5j69i60.2670j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 849,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 8:55:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 849,
+        "curUrl": "https://www.google.com/search?q=express+app.listen&sxsrf=ALiCzsYni1yyeJlHuOoIjaIlI7WtcvLG4g%3A1657590940252&ei=nNTMYoCNDsLg9AOSr7j4Bg&ved=0ahUKEwiAy7O5n_L4AhVCMH0KHZIXDm8Q4dUDCA4&uact=5&oq=express+app.listen&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6EgguEMcBENEDEMgDELADEEMYAjoLCAAQgAQQsQMQgwE6BAgAEEM6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARDRAzoFCAAQkQI6CAgAELEDEJECSgQIQRgASgQIRhgBUM0PWKxJYK9LaAdwAXgAgAFpiAGKCJIBBDEwLjKYAQCgAQHIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz",
+        "prevTabId": 849,
+        "prevUrl": "https://www.google.com/search?q=express+js&oq=express+js&aqs=chrome..69i57j0i131i433i512j0i512l5j69i60.2670j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 8:56:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 849,
+        "curUrl": "https://www.geeksforgeeks.org/express-js-app-listen-function/",
+        "prevTabId": 849,
+        "prevUrl": "https://www.google.com/search?q=express+app.listen&sxsrf=ALiCzsYni1yyeJlHuOoIjaIlI7WtcvLG4g%3A1657590940252&ei=nNTMYoCNDsLg9AOSr7j4Bg&ved=0ahUKEwiAy7O5n_L4AhVCMH0KHZIXDm8Q4dUDCA4&uact=5&oq=express+app.listen&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6EgguEMcBENEDEMgDELADEEMYAjoLCAAQgAQQsQMQgwE6BAgAEEM6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARDRAzoFCAAQkQI6CAgAELEDEJECSgQIQRgASgQIRhgBUM0PWKxJYK9LaAdwAXgAgAFpiAGKCJIBBDEwLjKYAQCgAQHIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz",
+        "time": "7/11/2022, 8:56:12 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 852,
+        "curUrl": "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#web-and-express",
+        "time": "7/11/2022, 9:05:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 852,
+        "curUrl": "https://www.google.com/search?q=roy+fielding&oq=roy+fielding&aqs=chrome..69i57j46i512j0i512l8.1617j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 852,
+        "prevUrl": "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+        "time": "7/11/2022, 9:05:48 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 852,
+        "curUrl": "https://twitter.com/fielding",
+        "prevTabId": 852,
+        "prevUrl": "https://www.google.com/search?q=roy+fielding&oq=roy+fielding&aqs=chrome..69i57j46i512j0i512l8.1617j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 9:06:02 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 852,
+        "curUrl": "https://twitter.com/fielding/status/1533937991881617408",
+        "prevTabId": 852,
+        "prevUrl": "https://twitter.com/fielding",
+        "time": "7/11/2022, 9:06:18 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 852,
+        "curUrl": "https://twitter.com/xdylxdyl",
+        "prevTabId": 852,
+        "prevUrl": "https://twitter.com/fielding/status/1533937991881617408",
+        "time": "7/11/2022, 9:06:47 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#web-and-express",
+        "time": "7/11/2022, 9:07:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#about-http-request-types",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "time": "7/11/2022, 9:07:04 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#about-http-request-types",
+        "time": "7/11/2022, 9:07:12 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "time": "7/11/2022, 9:07:13 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "time": "7/11/2022, 9:07:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "time": "7/11/2022, 9:07:16 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "time": "7/11/2022, 9:07:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#postman",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "time": "7/11/2022, 9:07:23 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#postman",
+        "time": "7/11/2022, 9:07:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#fetching-a-single-resource",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "time": "7/11/2022, 9:07:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#rest",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#fetching-a-single-resource",
+        "time": "7/11/2022, 9:07:28 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 854,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 854,
+        "prevUrl": "",
+        "time": "7/11/2022, 9:31:20 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 855,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 855,
+        "prevUrl": "",
+        "time": "7/11/2022, 9:31:24 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 854,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 854,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 9:31:25 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 855,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 855,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 9:31:26 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 854,
+        "curUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "prevTabId": 854,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/11/2022, 9:31:28 PM"
+    },
+    {
+        "action": "hyperlink opened in new tab but new tab is not active tab",
+        "curTabId": 856,
+        "curUrl": "https://twitter.com/GergelyOrosz/status/1454377926946918404?t=nZgbtp3Q2daNN_vGT-8W5Q&s=19",
+        "prevTabId": 854,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 9:32:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 854,
+        "curUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "prevTabId": 854,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967327953669193789",
+        "time": "7/11/2022, 9:32:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 856,
+        "curUrl": "https://twitter.com/wongmjane",
+        "prevTabId": 856,
+        "prevUrl": "https://twitter.com/GergelyOrosz/status/1454377926946918404?t=nZgbtp3Q2daNN_vGT-8W5Q&s=19",
+        "time": "7/11/2022, 9:34:19 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 854,
+        "curUrl": "https://discord.com/channels/967160930557374524/982401352716156978",
+        "prevTabId": 854,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967876427762524311",
+        "time": "7/11/2022, 9:38:27 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#rest",
+        "time": "7/11/2022, 9:46:37 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "time": "7/11/2022, 9:46:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#receiving-data",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client",
+        "time": "7/11/2022, 9:46:41 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#receiving-data",
+        "time": "7/11/2022, 9:46:42 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#receiving-data",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "time": "7/11/2022, 9:46:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#receiving-data",
+        "time": "7/11/2022, 9:46:43 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client",
+        "time": "7/11/2022, 9:46:44 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#postman",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "time": "7/11/2022, 9:46:45 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#postman",
+        "time": "7/11/2022, 9:46:47 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 859,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 859,
+        "prevUrl": "",
+        "time": "7/11/2022, 9:50:33 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 859,
+        "curUrl": "https://www.google.com/search?q=intellij+webstorm&oq=IntelliJ+WebStorm&aqs=chrome.0.0i512l8j0i22i30l2.639j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 859,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/11/2022, 9:50:35 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 859,
+        "curUrl": "https://www.jetbrains.com/webstorm/",
+        "prevTabId": 859,
+        "prevUrl": "https://www.google.com/search?q=intellij+webstorm&oq=IntelliJ+WebStorm&aqs=chrome.0.0i512l8j0i22i30l2.639j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/11/2022, 9:50:39 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources",
+        "time": "7/11/2022, 9:51:34 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/deploying_app_to_internet",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6",
+        "time": "7/11/2022, 9:51:52 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/saving_data_to_mongo_db",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/deploying_app_to_internet",
+        "time": "7/11/2022, 9:52:03 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/validation_and_es_lint",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/saving_data_to_mongo_db",
+        "time": "7/11/2022, 9:52:07 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/validation_and_es_lint#lint",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/validation_and_es_lint",
+        "time": "7/11/2022, 9:52:15 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/validation_and_es_lint#lint",
+        "time": "7/11/2022, 9:52:21 PM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 384,
+        "curUrl": "https://fullstackopen.com/en/part3/node_js_and_express#receiving-data",
+        "prevTabId": 384,
+        "prevUrl": "https://fullstackopen.com/en/part3/node_js_and_express",
+        "time": "7/11/2022, 9:52:26 PM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 862,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 862,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:26:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 862,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:26:30 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJ9v36%2Fgz9pKrRl3sdm%2FM%2Fw%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/12/2022, 11:26:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAA9pSiGkYpdHqnr7wjXYHe0%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAJ9v36%2Fgz9pKrRl3sdm%2FM%2Fw%3D",
+        "time": "7/12/2022, 11:26:58 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOYU1aSej1pEgrPaeUXoIDQ%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAA9pSiGkYpdHqnr7wjXYHe0%3D",
+        "time": "7/12/2022, 11:27:01 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEOmYCrvlaZPq8stB29b2fI%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAOYU1aSej1pEgrPaeUXoIDQ%3D",
+        "time": "7/12/2022, 11:27:02 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMfbUpkVY4RGjotP3SFcukA%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAEOmYCrvlaZPq8stB29b2fI%3D",
+        "time": "7/12/2022, 11:27:05 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAL0fhrlr6sdLncK%2BIDN8VL8%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAMfbUpkVY4RGjotP3SFcukA%3D",
+        "time": "7/12/2022, 11:27:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKwdHpAyuzJCqFB%2F30Uke6Q%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAL0fhrlr6sdLncK%2BIDN8VL8%3D",
+        "time": "7/12/2022, 11:27:37 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 863,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 863,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:27:42 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://www.google.com/search?q=washu+cse+reu&oq=washu+cse+reu&aqs=chrome..69i57.2206j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 863,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:27:45 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/",
+        "prevTabId": 863,
+        "prevUrl": "https://www.google.com/search?q=washu+cse+reu&oq=washu+cse+reu&aqs=chrome..69i57.2206j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/12/2022, 11:27:47 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/summer/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/",
+        "time": "7/12/2022, 11:27:50 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/summer/",
+        "time": "7/12/2022, 11:27:57 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "time": "7/12/2022, 11:28:07 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/links/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "time": "7/12/2022, 11:29:56 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/links/",
+        "time": "7/12/2022, 11:29:59 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/projects/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/",
+        "time": "7/12/2022, 11:30:02 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/apply/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/projects/",
+        "time": "7/12/2022, 11:30:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/projects/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/apply/",
+        "time": "7/12/2022, 11:30:03 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/apply/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/projects/",
+        "time": "7/12/2022, 11:30:07 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/summer/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/apply/",
+        "time": "7/12/2022, 11:30:09 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/summer/",
+        "time": "7/12/2022, 11:30:11 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "time": "7/12/2022, 11:30:13 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "time": "7/12/2022, 11:30:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/academic-year/",
+        "time": "7/12/2022, 11:30:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://sites.wustl.edu/csereu/links/",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/frequently-asked-questions/",
+        "time": "7/12/2022, 11:30:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://www.google.com/search?q=washu+cse+reu+payment&oq=washu+cse+reu+payment&aqs=chrome..69i57j33i160l3.2366j0j4&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 863,
+        "prevUrl": "https://sites.wustl.edu/csereu/links/",
+        "time": "7/12/2022, 11:30:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://www.cse.wustl.edu/~cytron/AdvisingFAQ/",
+        "prevTabId": 863,
+        "prevUrl": "https://www.google.com/search?q=washu+cse+reu+payment&oq=washu+cse+reu+payment&aqs=chrome..69i57j33i160l3.2366j0j4&sourceid=chrome&ie=UTF-8",
+        "time": "7/12/2022, 11:30:41 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 863,
+        "curUrl": "https://www.cse.wustl.edu/~cytron/AdvisingFAQ/#keyword139",
+        "prevTabId": 863,
+        "prevUrl": "https://www.cse.wustl.edu/~cytron/AdvisingFAQ/",
+        "time": "7/12/2022, 11:30:46 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQAKwdHpAyuzJCqFB%2F30Uke6Q%3D",
+        "time": "7/12/2022, 11:31:34 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 862,
+        "curUrl": "https://outlook.office.com/mail/inbox/id/AAQkAGRiZjU5ODBmLTA2NmQtNDM1NC04NTgwLTQ1MDc1ZDBhNzJkMAAQADF2Z4SyaUv%2BiGQVqh6G0i4%3D",
+        "prevTabId": 862,
+        "prevUrl": "https://outlook.office.com/mail/",
+        "time": "7/12/2022, 11:31:35 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 865,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 865,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:32:39 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.google.com/search?q=make+100k+by+22&oq=make+100k+by+22&aqs=chrome..69i57j33i160l3.5320j0j7&sourceid=chrome&ie=UTF-8",
+        "prevTabId": 865,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:32:47 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.google.com/search?q=make+100k+by+22+reddit&sxsrf=ALiCzsbHvKZe2K4ClD6xf40BcUUU6wg2Jg%3A1657643557528&ei=JaLNYtnwH7-I0PEPhryNgAU&oq=make+100k+by+22+re&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCAghEB4QFhAdMggIIRAeEBYQHTIICCEQHhAWEB06BwgAEEcQsAM6CgghEB4QDxAWEB1KBAhBGABKBAhGGABQqQJYgAVg0AhoAXABeACAAX6IAb8CkgEDMS4ymAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "prevTabId": 865,
+        "prevUrl": "https://www.google.com/search?q=make+100k+by+22&oq=make+100k+by+22&aqs=chrome..69i57j33i160l3.5320j0j7&sourceid=chrome&ie=UTF-8",
+        "time": "7/12/2022, 11:32:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/FinancialPlanning/comments/sb41v3/if_you_had_a_job_at_22_making_100k_per_year_how/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.google.com/search?q=make+100k+by+22+reddit&sxsrf=ALiCzsbHvKZe2K4ClD6xf40BcUUU6wg2Jg%3A1657643557528&ei=JaLNYtnwH7-I0PEPhryNgAU&oq=make+100k+by+22+re&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAEyBQghEKsCMgUIIRCrAjIFCCEQqwIyCAghEB4QFhAdMggIIRAeEBYQHTIICCEQHhAWEB06BwgAEEcQsAM6CgghEB4QDxAWEB1KBAhBGABKBAhGGABQqQJYgAVg0AhoAXABeACAAX6IAb8CkgEDMS4ymAEAoAEByAEIwAEB&sclient=gws-wiz",
+        "time": "7/12/2022, 11:32:58 AM"
+    },
+    {
+        "action": "hyperlink opened in new tab and new tab is active tab",
+        "curTabId": 866,
+        "curUrl": "https://www.reddit.com/r/FinancialPlanning/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/FinancialPlanning/comments/sb41v3/if_you_had_a_job_at_22_making_100k_per_year_how/",
+        "time": "7/12/2022, 11:33:44 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/FinancialPlanning/comments/sb41v3/if_you_had_a_job_at_22_making_100k_per_year_how/",
+        "time": "7/12/2022, 11:34:23 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/",
+        "time": "7/12/2022, 11:34:35 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/vx3a8j/after_a_bit_of_suffering_my_wife_and_i_can_safely/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/",
+        "time": "7/12/2022, 11:34:42 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/vx3a8j/after_a_bit_of_suffering_my_wife_and_i_can_safely/",
+        "time": "7/12/2022, 11:34:50 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/",
+        "time": "7/12/2022, 11:34:51 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/",
+        "time": "7/12/2022, 11:34:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/tgcuse/saw_a_35yearold_today_diagnosed_with_cancer/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:35:01 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/tgcuse/saw_a_35yearold_today_diagnosed_with_cancer/",
+        "time": "7/12/2022, 11:35:10 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/t645oz/im_retiring_tomorrow/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:35:23 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/t645oz/im_retiring_tomorrow/",
+        "time": "7/12/2022, 11:35:53 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/twxs6p/broke_100k_in_net_worth_today/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:35:55 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/twxs6p/broke_100k_in_net_worth_today/",
+        "time": "7/12/2022, 11:36:07 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/sn4hku/leaving_this_community_for_my_mental_health/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:36:11 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/sn4hku/leaving_this_community_for_my_mental_health/",
+        "time": "7/12/2022, 11:36:15 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/vhgsn4/how_do_you_people_that_visit_this_sub_remain_sane/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:36:19 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/vhgsn4/how_do_you_people_that_visit_this_sub_remain_sane/",
+        "time": "7/12/2022, 11:36:28 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/qftoa7/a_glossary_of_fire_terms_coastfire_fatfire_and/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:36:32 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/qftoa7/a_glossary_of_fire_terms_coastfire_fatfire_and/",
+        "time": "7/12/2022, 11:36:37 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/tyt836/this_week_was_a_reality_check/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:36:40 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/comments/tyt836/this_week_was_a_reality_check/",
+        "time": "7/12/2022, 11:37:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 865,
+        "curUrl": "https://www.reddit.com/r/Fire/comments/rp1rh0/people_who_make_150k_usd_whats_your_career/",
+        "prevTabId": 865,
+        "prevUrl": "https://www.reddit.com/r/Fire/top/?t=year",
+        "time": "7/12/2022, 11:37:31 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 869,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 869,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:39:21 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 869,
+        "curUrl": "https://discord.com/channels/@me",
+        "prevTabId": 869,
+        "prevUrl": "chrome://newtab/",
+        "time": "7/12/2022, 11:39:24 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 869,
+        "curUrl": "https://discord.com/channels/967160930557374524/982401352716156978",
+        "prevTabId": 869,
+        "prevUrl": "https://discord.com/channels/@me",
+        "time": "7/12/2022, 11:39:27 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 869,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 869,
+        "prevUrl": "https://discord.com/channels/967160930557374524/982401352716156978",
+        "time": "7/12/2022, 11:39:29 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 869,
+        "curUrl": "https://discord.com/channels/937027655121915984/989165988396273725",
+        "prevTabId": 869,
+        "prevUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "time": "7/12/2022, 11:40:26 AM"
+    },
+    {
+        "action": "navigate between urls in the same tab",
+        "curTabId": 869,
+        "curUrl": "https://discord.com/channels/967160930557374524/967160931027148900",
+        "prevTabId": 869,
+        "prevUrl": "https://discord.com/channels/937027655121915984/989165988396273725",
+        "time": "7/12/2022, 11:40:27 AM"
     }
 ]
