@@ -22934,5 +22934,13 @@
         "prevTabId": 869,
         "prevUrl": "https://discord.com/channels/937027655121915984/989165988396273725",
         "time": "7/12/2022, 11:40:27 AM"
+    },
+    {
+        "action": "empty new tab is active tab",
+        "curTabId": 872,
+        "curUrl": "chrome://newtab/",
+        "prevTabId": 872,
+        "prevUrl": "",
+        "time": "7/12/2022, 11:41:16 AM"
     }
 ]
